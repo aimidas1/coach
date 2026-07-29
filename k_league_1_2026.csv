@@ -1,14 +1,14 @@
 ﻿league,name,short_name,country,tactical_profile,preferred_formation,matches_total,wins,draws,losses,win_pct,avg_goals_scored,avg_goals_conceded,avg_possession,clean_sheet_pct,btts_pct,over_25_pct
-k_league_1_2026,Gi Dong Kim,G. D. Kim,South Korea,attacking,4-4-2,18,12,3,3,66.7,1.72,0.72,56.71,44.4,50.0,55.6
-k_league_1_2026,Jeong-Gyu Lee,J. Lee,South Korea,defensive,4-4-2,18,1,6,11,5.6,0.5,2.33,46.0,16.7,33.3,50.0
-k_league_1_2026,Jeong-yong Jung,J. Jung,South Korea,balanced,4-2-3-1,22,9,7,6,40.9,1.32,0.95,57.5,31.8,54.5,36.4
+k_league_1_2026,Gi Dong Kim,G. D. Kim,South Korea,attacking,4-4-2,20,13,3,4,65.0,1.75,0.85,56.58,40.0,55.0,60.0
+k_league_1_2026,Jeong-Gyu Lee,J. Lee,South Korea,defensive,4-4-2,20,1,7,12,5.0,0.55,2.25,45.89,15.0,40.0,50.0
+k_league_1_2026,Jeong-yong Jung,J. Jung,South Korea,balanced,4-2-3-1,24,10,8,6,41.7,1.29,0.88,57.63,37.5,50.0,33.3
 k_league_1_2026,Jo-Gook Jung,J. Jung,South Korea,,,0,0,0,0,,,,,,,
-k_league_1_2026,Jung-Hwan Yoon,J. Yoon,South Korea,balanced,4-4-2,21,8,4,9,38.1,1.24,1.14,52.22,33.3,47.6,52.4
-k_league_1_2026,Kim Hyun-Seok,K. Hyun-Seok,South Korea,balanced,4-4-2,19,8,4,7,42.1,1.47,1.53,47.06,15.8,68.4,57.9
-k_league_1_2026,Kyung-ho Chung,K. Chung,South Korea,balanced,4-4-2,25,9,8,8,36.0,1.24,1.2,51.33,44.0,44.0,44.0
-k_league_1_2026,Ryu Byeong-Hoon,R. Byeong-Hoon,South Korea,balanced,4-3-3,18,5,9,4,27.8,1.28,1.11,43.41,16.7,72.2,33.3
-k_league_1_2026,Sergio Costa,S. Costa,,defensive,4-4-2,17,6,4,7,35.3,0.94,1.06,43.71,29.4,52.9,35.3
-k_league_1_2026,Seung-jin Joo,S. Joo,South Korea,defensive,4-4-2,18,2,10,6,11.1,0.94,1.39,56.06,11.1,66.7,33.3
-k_league_1_2026,Sun-hong Hwang,Seon-hong Hwang,South Korea,balanced,4-2-3-1,23,6,9,8,26.1,1.22,1.13,53.55,21.7,47.8,34.8
-k_league_1_2026,Tae-Ha Park,T. Park,South Korea,balanced,4-1-4-1,18,8,4,6,44.4,1.06,0.89,50.78,44.4,33.3,22.2
-k_league_1_2026,Young-Min Lee,Y. Lee,South Korea,defensive,3-4-3,18,4,7,7,22.2,0.83,1.17,40.12,33.3,38.9,33.3
+k_league_1_2026,Jung-Hwan Yoon,J. Yoon,South Korea,balanced,4-4-2,23,9,5,9,39.1,1.26,1.13,52.37,30.4,52.2,52.2
+k_league_1_2026,Kim Hyun-Seok,K. Hyun-Seok,South Korea,balanced,4-4-2,21,9,4,8,42.9,1.52,1.52,46.95,14.3,71.4,61.9
+k_league_1_2026,Kyung-ho Chung,K. Chung,South Korea,balanced,4-4-2,27,9,9,9,33.3,1.22,1.22,50.89,40.7,48.1,44.4
+k_league_1_2026,Ryu Byeong-Hoon,R. Byeong-Hoon,South Korea,balanced,4-3-3,20,7,9,4,35.0,1.4,1.15,43.68,15.0,75.0,40.0
+k_league_1_2026,Sergio Costa,S. Costa,,balanced,4-4-2,19,7,5,7,36.8,1.0,1.05,44.44,26.3,57.9,36.8
+k_league_1_2026,Seung-jin Joo,S. Joo,South Korea,balanced,4-4-2,20,3,11,6,15.0,1.05,1.4,56.37,10.0,70.0,35.0
+k_league_1_2026,Sun-hong Hwang,Seon-hong Hwang,South Korea,balanced,4-4-2,25,6,10,9,24.0,1.2,1.16,52.9,24.0,48.0,36.0
+k_league_1_2026,Tae-Ha Park,T. Park,South Korea,balanced,4-1-4-1,20,8,4,8,40.0,1.0,1.05,51.16,40.0,35.0,25.0
+k_league_1_2026,Young-Min Lee,Y. Lee,South Korea,defensive,3-4-3,20,4,8,8,20.0,0.9,1.25,40.47,30.0,45.0,35.0

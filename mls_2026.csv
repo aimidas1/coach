@@ -1,40 +1,40 @@
 ﻿league,name,short_name,country,tactical_profile,preferred_formation,matches_total,wins,draws,losses,win_pct,avg_goals_scored,avg_goals_conceded,avg_possession,clean_sheet_pct,btts_pct,over_25_pct
 mls_2026,Alastair Harris,A. Harris,,attacking,4-2-3-1,9,3,1,5,33.3,1.78,1.78,54.56,22.2,66.7,66.7
-mls_2026,Ben Olsen,B. Olsen,USA,balanced,4-2-3-1,52,19,11,22,36.5,1.4,1.67,48.25,28.8,57.7,55.8
-mls_2026,B.J. Callaghan,B.J. Callaghan,USA,attacking,4-4-2,52,28,9,15,53.8,1.79,1.23,51.42,30.8,57.7,65.4
+mls_2026,Ben Olsen,B. Olsen,USA,balanced,4-2-3-1,54,20,12,22,37.0,1.43,1.63,48.52,29.6,57.4,55.6
+mls_2026,B.J. Callaghan,B.J. Callaghan,USA,attacking,4-2-3-1,54,29,9,16,53.7,1.74,1.2,51.65,31.5,55.6,63.0
 mls_2026,Bradley Carnell,B. Carnell,South Africa,balanced,4-4-2,52,22,11,19,42.3,1.54,1.31,47.56,32.7,48.1,53.8
-mls_2026,Brian Schmetzer,B. Schmetzer,USA,balanced,4-2-3-1,52,24,15,13,46.2,1.65,1.33,53.9,30.8,53.8,53.8
-mls_2026,Bruce Arena,B. Arena,USA,attacking,4-2-3-1,50,21,10,19,42.0,1.9,1.6,49.33,20.0,76.0,70.0
-mls_2026,Cameron Knowles,C. Knowles,New Zealand,balanced,5-3-2,53,22,16,15,41.5,1.49,1.3,41.04,28.3,56.6,56.6
-mls_2026,Davy Arnaud,D. Arnaud,USA,balanced,4-4-2,15,4,4,7,26.7,1.33,1.73,46.23,33.3,53.3,66.7
-mls_2026,Dean Smith,D. Smith,England,balanced,4-2-3-1,53,26,6,21,49.1,1.53,1.38,47.67,32.1,52.8,56.6
-mls_2026,Eric Quill,E. Quill,USA,balanced,4-2-3-1,51,18,16,17,35.3,1.63,1.59,41.35,17.6,64.7,58.8
-mls_2026,Gerardo Martino,G. Martino,Argentina,balanced,4-2-3-1,49,8,15,26,16.3,1.06,1.78,51.06,10.2,57.1,49.0
-mls_2026,Gregg Berhalter,G. Berhalter,USA,attacking,4-2-3-1,52,25,11,16,48.1,1.94,1.58,50.57,25.0,67.3,75.0
-mls_2026,Greg Vanney,G. Vanney,USA,balanced,4-2-3-1,53,15,14,24,28.3,1.42,1.74,53.08,13.2,67.9,66.0
-mls_2026,Guillermo Angel Hoyos,G. A. Hoyos,Argentina,attacking,4-4-2,56,34,12,10,60.7,2.54,1.59,56.57,19.6,73.2,80.4
-mls_2026,Henrik Rydstrom,H. Rydstrom,Sweden,attacking,4-2-3-1,28,15,9,4,53.6,1.86,1.25,59.3,25.0,67.9,57.1
-mls_2026,Jack Cassidy,J. Cassidy,England,,,0,0,0,0,,,,,,,
-mls_2026,Jesper Sorensen,J. Sorensen,Denmark,attacking,4-2-3-1,54,30,13,11,55.6,2.04,1.09,54.04,35.2,55.6,63.0
-mls_2026,Laurent Courtois,L. Courtois,France,balanced,4-4-2,34,10,11,13,29.4,1.53,1.56,57.82,14.7,73.5,61.8
-mls_2026,Marc Dos Santos,M. D. Santos,Canada,attacking,4-3-3,54,28,13,13,51.9,1.87,1.13,50.66,42.6,48.1,57.4
-mls_2026,Marko Mitrovic,M. Mitrovic,Serbia,balanced,4-2-3-1,48,17,10,21,35.4,1.38,1.44,49.48,27.1,54.2,54.2
+mls_2026,Brian Schmetzer,B. Schmetzer,USA,balanced,4-2-3-1,54,24,15,15,44.4,1.61,1.35,53.81,29.6,53.7,53.7
+mls_2026,Bruce Arena,B. Arena,USA,attacking,4-2-3-1,52,21,11,20,40.4,1.85,1.63,49.55,19.2,75.0,69.2
+mls_2026,Cameron Knowles,C. Knowles,New Zealand,balanced,5-3-2,55,22,17,16,40.0,1.45,1.29,41.38,29.1,56.4,56.4
+mls_2026,Davy Arnaud,D. Arnaud,USA,balanced,4-4-2,17,5,4,8,29.4,1.35,1.76,47.2,29.4,52.9,70.6
+mls_2026,Dean Smith,D. Smith,England,balanced,4-2-3-1,55,27,7,21,49.1,1.55,1.36,47.5,32.7,52.7,56.4
+mls_2026,Eric Quill,E. Quill,USA,balanced,4-2-3-1,53,18,17,18,34.0,1.6,1.58,41.0,17.0,64.2,58.5
+mls_2026,Gerardo Martino,G. Martino,Argentina,balanced,4-2-3-1,51,8,16,27,15.7,1.08,1.82,51.08,9.8,58.8,51.0
+mls_2026,Gregg Berhalter,G. Berhalter,USA,attacking,4-3-3,54,25,11,18,46.3,1.93,1.63,50.55,24.1,68.5,75.9
+mls_2026,Greg Vanney,G. Vanney,USA,balanced,4-2-3-1,55,15,15,25,27.3,1.4,1.75,52.75,12.7,69.1,65.5
+mls_2026,Guillermo Angel Hoyos,G. A. Hoyos,Argentina,attacking,4-4-2,58,36,12,10,62.1,2.52,1.57,56.52,20.7,72.4,79.3
+mls_2026,Henrik Rydstrom,H. Rydstrom,Sweden,attacking,4-2-3-1,30,15,11,4,50.0,1.8,1.23,59.54,23.3,70.0,53.3
+mls_2026,Jack Cassidy,J. Cassidy,England,attacking,4-1-4-1,3,2,1,0,66.7,3.0,1.33,58.33,0.0,100.0,100.0
+mls_2026,Jesper Sorensen,J. Sorensen,Denmark,attacking,4-2-3-1,56,30,14,12,53.6,2.02,1.12,54.36,35.7,55.4,62.5
+mls_2026,Laurent Courtois,L. Courtois,France,balanced,4-4-2,36,11,11,14,30.6,1.53,1.56,57.71,13.9,75.0,63.9
+mls_2026,Marc Dos Santos,M. D. Santos,Canada,attacking,4-3-3,56,30,13,13,53.6,1.93,1.11,50.18,42.9,48.2,58.9
+mls_2026,Marko Mitrovic,M. Mitrovic,Serbia,balanced,4-2-3-1,50,18,11,21,36.0,1.4,1.4,49.7,28.0,54.0,54.0
 mls_2026,Marti Cifuentes,M. Cifuentes,Spain,,,0,0,0,0,,,,,,,
 mls_2026,Martin Manuel Perelman,M. M. Perelman,Argentina,,,0,0,0,0,,,,,,,
-mls_2026,Martín Perelman,M. Perelman,Argentina,attacking,4-4-2,50,18,13,19,36.0,1.74,1.96,46.88,16.0,74.0,72.0
-mls_2026,Matt Wells,M. Wells,England,balanced,4-2-3-1,41,13,9,19,31.7,1.32,1.59,47.3,19.5,53.7,56.1
-mls_2026,Michael Bradley,M. Bradley,USA,balanced,4-3-3,49,18,11,20,36.7,1.49,1.61,51.76,22.4,59.2,55.1
+mls_2026,Martín Perelman,M. Perelman,Argentina,attacking,4-4-2,51,19,13,19,37.3,1.73,1.92,46.9,17.6,72.5,70.6
+mls_2026,Matt Wells,M. Wells,England,balanced,4-2-3-1,43,14,9,20,32.6,1.28,1.53,47.12,20.9,51.2,53.5
+mls_2026,Michael Bradley,M. Bradley,USA,balanced,4-3-3,51,18,11,22,35.3,1.45,1.65,52.02,21.6,58.8,54.9
 mls_2026,Michael Bradley,M. Bradley,USA,,,0,0,0,0,,,,,,,
-mls_2026,Mikey Varas,M. Varas,USA,attacking,4-3-3,54,26,12,16,48.1,1.93,1.37,61.56,31.5,57.4,64.8
+mls_2026,Mikey Varas,M. Varas,USA,attacking,4-3-3,56,27,12,17,48.2,1.88,1.34,61.54,32.1,55.4,62.5
 mls_2026,Nico Estévez,N. Estévez,Spain,balanced,4-4-2,38,13,9,16,34.2,1.11,1.5,47.84,23.7,55.3,50.0
-mls_2026,Pablo Mastroeni,P. Mastroeni,USA,balanced,4-2-3-1,50,21,7,22,42.0,1.38,1.44,51.43,18.0,60.0,56.0
-mls_2026,Pascal Jansen,P. Jansen,Netherlands,balanced,4-2-3-1,54,25,10,19,46.3,1.5,1.31,54.74,27.8,51.9,53.7
-mls_2026,Pat Noonan,P. Noonan,USA,attacking,3-4-1-2,55,28,10,17,50.9,1.71,1.65,48.57,25.5,56.4,60.0
-mls_2026,Philippe Eullaffroy,P. Eullaffroy,France,balanced,4-3-3,49,10,13,26,20.4,1.14,1.86,48.59,16.3,55.1,55.1
+mls_2026,Pablo Mastroeni,P. Mastroeni,USA,balanced,4-2-3-1,52,21,7,24,40.4,1.37,1.48,51.57,17.3,61.5,57.7
+mls_2026,Pascal Jansen,P. Jansen,Netherlands,balanced,4-2-3-1,56,27,10,19,48.2,1.54,1.3,54.36,26.8,53.6,55.4
+mls_2026,Pat Noonan,P. Noonan,USA,attacking,3-4-1-2,57,29,10,18,50.9,1.74,1.68,48.35,24.6,57.9,61.4
+mls_2026,Philippe Eullaffroy,P. Eullaffroy,France,balanced,4-3-3,51,10,13,28,19.6,1.1,1.82,48.25,15.7,52.9,52.9
 mls_2026,Phil Neville,P. Neville,England,balanced,4-2-3-1,52,16,14,22,30.8,1.33,1.63,49.1,15.4,59.6,55.8
-mls_2026,Raphael Wicky,R. Wicky,Switzerland,balanced,4-3-3,51,10,9,32,19.6,1.22,2.18,47.0,7.8,64.7,70.6
-mls_2026,Rene Weiler,R. Weiler,Switzerland,balanced,4-4-2,50,9,17,24,18.0,1.04,1.9,43.47,16.0,60.0,54.0
-mls_2026,Robin Fraser,R. Fraser,USA,balanced,4-2-3-1,53,12,21,20,22.6,1.3,1.45,46.57,18.9,64.2,45.3
+mls_2026,Raphael Wicky,R. Wicky,Switzerland,balanced,4-3-3,53,11,9,33,20.8,1.21,2.19,46.9,7.5,64.2,71.7
+mls_2026,Rene Weiler,R. Weiler,Switzerland,balanced,4-4-2,52,10,18,24,19.2,1.06,1.87,43.35,15.4,61.5,53.8
+mls_2026,Robin Fraser,R. Fraser,USA,balanced,4-2-3-1,55,12,22,21,21.8,1.27,1.44,46.53,20.0,63.6,45.5
 mls_2026,Ryan Richter,R. Richter,USA,,,0,0,0,0,,,,,,,
 mls_2026,Ryan Richter,R. Richter,USA,,,0,0,0,0,,,,,,,
-mls_2026,Yoann Damet,Y. Damet,France,balanced,3-4-3,49,13,12,24,26.5,1.29,1.63,47.98,16.3,59.2,59.2
+mls_2026,Yoann Damet,Y. Damet,France,balanced,3-4-3,51,15,12,24,29.4,1.31,1.59,48.41,17.6,58.8,58.8
