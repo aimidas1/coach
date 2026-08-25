@@ -1,29 +1,29 @@
 ﻿league,name,short_name,country,tactical_profile,preferred_formation,matches_total,wins,draws,losses,win_pct,avg_goals_scored,avg_goals_conceded,avg_possession,clean_sheet_pct,btts_pct,over_25_pct
 liga_mx_apertura_2026,Alberto Manuel Espigares Lopez,A. M. E. Lopez,Spain,balanced,4-1-4-1,35,7,7,21,20.0,1.0,1.94,47.69,20.0,51.4,60.0
 liga_mx_apertura_2026,André Jardine,A. Jardine,Brazil,balanced,4-2-3-1,41,19,10,12,46.3,1.54,1.17,56.48,26.8,53.7,48.8
-liga_mx_apertura_2026,Antonio Mohamed,A. Mohamed,Argentina,attacking,4-2-3-1,48,24,13,11,50.0,1.81,1.04,57.54,31.2,54.2,50.0
-liga_mx_apertura_2026,Benjamin Mora,B. Mora,Mexico,attacking,4-2-3-1,6,4,0,2,66.7,2.33,0.83,45.5,33.3,50.0,83.3
+liga_mx_apertura_2026,Antonio Mohamed,A. Mohamed,Argentina,attacking,4-2-3-1,49,25,13,11,51.0,1.82,1.04,57.38,30.6,55.1,51.0
+liga_mx_apertura_2026,Benjamin Mora,B. Mora,Mexico,attacking,4-2-3-1,8,4,1,3,50.0,2.12,1.12,44.83,25.0,62.5,75.0
 liga_mx_apertura_2026,Diego Martin Cocca,D. M. Cocca,Argentina,balanced,5-4-1,37,12,10,15,32.4,1.22,1.59,45.27,27.0,51.4,48.6
-liga_mx_apertura_2026,Diego Mejia,D. Mejia,Mexico,attacking,3-4-2-1,9,4,3,2,44.4,2.11,1.11,54.25,55.6,33.3,77.8
-liga_mx_apertura_2026,Efraín Juárez,E. Juárez,Mexico,balanced,4-2-3-1,55,20,20,15,36.4,1.6,1.44,49.91,23.6,63.6,50.9
-liga_mx_apertura_2026,Esteban Gonzalez,E. Gonzalez,Chile,balanced,4-2-3-1,41,14,12,15,34.1,1.12,1.37,36.42,26.8,48.8,48.8
-liga_mx_apertura_2026,Esteban Solari,E. Solari,Argentina,balanced,4-2-3-1,45,21,9,15,46.7,1.36,1.11,49.28,24.4,48.9,48.9
-liga_mx_apertura_2026,Gabriel Milito,G. Milito,Argentina,balanced,3-4-2-1,47,24,10,13,51.1,1.57,1.11,57.07,40.4,46.8,53.2
-liga_mx_apertura_2026,Gerardo Espinoza,G. Espinoza,Mexico,attacking,4-3-3,5,2,1,2,40.0,2.0,2.0,34.0,0.0,100.0,80.0
-liga_mx_apertura_2026,Guido Pizarro,G. Pizarro,Argentina,attacking,4-2-3-1,45,20,13,12,44.4,1.78,1.16,54.29,31.1,60.0,53.3
-liga_mx_apertura_2026,Guillermo Almada,G. Almada,Uruguay,balanced,4-2-3-1,91,33,26,32,36.3,1.09,1.2,48.08,33.0,41.8,40.7
-liga_mx_apertura_2026,Hernan Crespo,H. Crespo,Argentina,balanced,3-4-2-1,10,3,2,5,30.0,1.2,1.1,45.0,40.0,30.0,40.0
+liga_mx_apertura_2026,Diego Mejia,D. Mejia,Mexico,attacking,3-4-2-1,10,4,4,2,40.0,2.0,1.1,57.2,50.0,40.0,70.0
+liga_mx_apertura_2026,Efraín Juárez,E. Juárez,Mexico,balanced,4-2-3-1,55,20,20,15,36.4,1.6,1.44,49.89,23.6,63.6,50.9
+liga_mx_apertura_2026,Esteban Gonzalez,E. Gonzalez,Chile,balanced,4-2-3-1,42,14,12,16,33.3,1.12,1.38,36.77,26.2,50.0,50.0
+liga_mx_apertura_2026,Esteban Solari,E. Solari,Argentina,balanced,4-2-3-1,46,21,10,15,45.7,1.35,1.11,49.3,23.9,50.0,47.8
+liga_mx_apertura_2026,Gabriel Milito,G. Milito,Argentina,balanced,3-4-2-1,48,25,10,13,52.1,1.65,1.12,57.07,39.6,47.9,54.2
+liga_mx_apertura_2026,Gerardo Espinoza,G. Espinoza,Mexico,attacking,4-2-3-1,7,4,1,2,57.1,2.29,2.0,37.5,0.0,100.0,85.7
+liga_mx_apertura_2026,Guido Pizarro,G. Pizarro,Argentina,attacking,4-2-3-1,45,20,13,12,44.4,1.78,1.16,54.31,31.1,60.0,53.3
+liga_mx_apertura_2026,Guillermo Almada,G. Almada,Uruguay,balanced,4-2-3-1,92,34,26,32,37.0,1.1,1.2,48.29,32.6,42.4,41.3
+liga_mx_apertura_2026,Hernan Crespo,H. Crespo,Argentina,balanced,3-4-2-1,11,4,2,5,36.4,1.27,1.0,45.75,45.5,27.3,36.4
 liga_mx_apertura_2026,Hernán Elizondo,H. Elizondo,Mexico,,,0,0,0,0,,,,,,,
-liga_mx_apertura_2026,Javier Gandolfi,J. Gandolfi,Argentina,balanced,4-2-3-1,39,13,5,21,33.3,1.21,1.79,52.46,17.9,53.8,56.4
-liga_mx_apertura_2026,Joel Huiqui,J. Huiqui,Mexico,attacking,3-4-2-1,51,27,17,7,52.9,1.82,1.2,54.88,25.5,72.5,60.8
-liga_mx_apertura_2026,Martin Varini,M. Varini,Uruguay,balanced,3-4-2-1,40,13,9,18,32.5,1.38,1.62,49.65,15.0,62.5,57.5
-liga_mx_apertura_2026,Matías Almeyda,M. Almeyda,Argentina,attacking,4-2-3-1,46,22,8,16,47.8,1.8,1.43,55.57,26.1,56.5,60.9
-liga_mx_apertura_2026,Miguel Herrera,M.Herrera,Mexico,balanced,5-3-2,8,1,5,2,12.5,1.5,1.75,39.0,12.5,75.0,50.0
+liga_mx_apertura_2026,Javier Gandolfi,J. Gandolfi,Argentina,balanced,4-1-4-1,41,15,5,21,36.6,1.24,1.73,51.64,19.5,53.7,56.1
+liga_mx_apertura_2026,Joel Huiqui,J. Huiqui,Mexico,attacking,3-4-2-1,52,27,17,8,51.9,1.79,1.21,54.82,25.0,71.2,59.6
+liga_mx_apertura_2026,Martin Varini,M. Varini,Uruguay,balanced,3-4-2-1,42,13,10,19,31.0,1.36,1.62,50.0,14.3,64.3,57.1
+liga_mx_apertura_2026,Matías Almeyda,M. Almeyda,Argentina,attacking,4-2-3-1,47,22,8,17,46.8,1.77,1.45,55.81,25.5,55.3,59.6
+liga_mx_apertura_2026,Miguel Herrera,M.Herrera,Mexico,balanced,5-3-2,9,1,5,3,11.1,1.33,1.78,37.8,11.1,66.7,44.4
 liga_mx_apertura_2026,Omar Tapia,O. Tapia,,balanced,4-3-1-2,34,9,5,20,26.5,1.24,1.94,44.74,17.6,58.8,70.6
 liga_mx_apertura_2026,Pedro Caixinha,Pedro Caixinha,Portugal,balanced,4-2-3-1,41,12,10,19,29.3,1.41,1.78,48.0,7.3,78.0,65.9
 liga_mx_apertura_2026,Raúl Chabrand,R. Chabrand,Mexico,balanced,4-2-3-1,34,10,4,20,29.4,1.44,1.65,47.12,20.6,64.7,58.8
-liga_mx_apertura_2026,Renato Paiva,R. Paiva,Portugal,defensive,4-2-3-1,7,2,0,5,28.6,0.86,1.43,47.0,14.3,28.6,42.9
-liga_mx_apertura_2026,Salvador Valero García,S. V. García,Spain,attacking,4-2-3-1,6,3,2,1,50.0,2.17,2.0,38.0,16.7,83.3,66.7
-liga_mx_apertura_2026,Sebastian Abreu,S. Abreu,Uruguay,balanced,4-1-4-1,42,17,15,10,40.5,1.48,1.17,46.12,35.7,52.4,52.4
+liga_mx_apertura_2026,Renato Paiva,R. Paiva,Portugal,balanced,4-2-3-1,8,2,0,6,25.0,1.0,1.62,49.8,12.5,37.5,50.0
+liga_mx_apertura_2026,Salvador Valero García,S. V. García,Spain,attacking,4-2-3-1,7,3,2,2,42.9,2.0,2.0,39.5,14.3,85.7,71.4
+liga_mx_apertura_2026,Sebastian Abreu,S. Abreu,Uruguay,balanced,4-1-4-1,43,17,15,11,39.5,1.49,1.26,46.02,34.9,53.5,53.5
 liga_mx_apertura_2026,Sergio Bueno,S. Bueno,Mexico,balanced,3-4-2-1,34,6,11,17,17.6,1.24,1.94,41.97,5.9,76.5,61.8
 liga_mx_apertura_2026,Victor Vucetich,V. Vucetich,Mexico,,,0,0,0,0,,,,,,,
