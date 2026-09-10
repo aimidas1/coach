@@ -1,5 +1,6 @@
 ﻿league,name,short_name,country,tactical_profile,preferred_formation,matches_total,wins,draws,losses,win_pct,avg_goals_scored,avg_goals_conceded,avg_possession,clean_sheet_pct,btts_pct,over_25_pct
 dinamarca_danish_superliga_2026_2027,Alexander Zorniger,A. Zorniger,Germany,balanced,4-4-2,130,40,40,50,30.8,1.39,1.6,54.0,16.9,70.0,60.8
+dinamarca_danish_superliga_2026_2027,Allan Larsen,A. Larsen,Denmark,,,0,0,0,0,,,,,,,
 dinamarca_danish_superliga_2026_2027,Bo Svensson,B. Svensson,Denmark,attacking,4-2-3-1,197,111,42,44,56.3,1.99,1.14,49.96,34.5,58.4,61.4
 dinamarca_danish_superliga_2026_2027,Claus Norgaard,C. Norgaard,Denmark,balanced,4-2-3-1,137,29,39,69,21.2,1.1,1.72,44.43,18.2,57.7,53.3
 dinamarca_danish_superliga_2026_2027,Fatah Abdirahman,F. Abdirahman,Denmark,balanced,4-3-3,110,28,29,53,25.5,1.27,1.84,42.9,16.4,60.9,57.3
@@ -11,7 +12,6 @@ dinamarca_danish_superliga_2026_2027,Mike Tullberg,M. Tullberg,Denmark,attacking
 dinamarca_danish_superliga_2026_2027,Mikkel Jespersen,M. Jespersen,Denmark,balanced,4-4-2,111,27,36,48,24.3,1.14,1.49,49.75,18.9,54.1,45.9
 dinamarca_danish_superliga_2026_2027,Morten Dahm Kjærgaard,M. D. Kjærgaard,Denmark,balanced,3-4-2-1,176,63,43,70,35.8,1.53,1.53,47.87,19.3,59.1,59.1
 dinamarca_danish_superliga_2026_2027,Nickolai Konig Lund,N. K. Lund,Denmark,balanced,4-3-3,178,68,50,60,38.2,1.44,1.38,47.72,23.0,62.4,53.9
-dinamarca_danish_superliga_2026_2027,Niki Zimling,N. Zimling,Denmark,attacking,4-2-3-1,7,3,1,3,42.9,1.86,1.29,,28.6,57.1,42.9
 dinamarca_danish_superliga_2026_2027,Niki Zimling,N. Zimling,Denmark,balanced,4-2-3-1,41,10,8,23,24.4,1.12,1.8,45.71,14.6,53.7,58.5
 dinamarca_danish_superliga_2026_2027,Rasmus Bertelsen,R. Bertelsen,Denmark,balanced,4-2-3-1,175,59,49,67,33.7,1.31,1.49,46.54,24.6,57.1,54.3
 dinamarca_danish_superliga_2026_2027,Steffen Hojer,S. Hojer,Denmark,balanced,4-3-3,106,28,27,51,26.4,1.25,1.66,53.0,23.6,53.8,59.4
