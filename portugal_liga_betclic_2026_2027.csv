@@ -1,4 +1,5 @@
 ﻿league,name,short_name,country,tactical_profile,preferred_formation,matches_total,wins,draws,losses,win_pct,avg_goals_scored,avg_goals_conceded,avg_possession,clean_sheet_pct,btts_pct,over_25_pct
+portugal_liga_betclic_2026_2027,Alexandre Santos,A. Santos,Portugal,defensive,4-2-3-1,46,20,22,4,43.5,1.35,0.67,53.0,47.8,45.7,37.0
 portugal_liga_betclic_2026_2027,Álvaro Pacheco,Á. Pacheco,Portugal,defensive,3-4-3,36,7,13,16,19.4,0.92,1.58,41.17,25.0,44.4,41.7
 portugal_liga_betclic_2026_2027,Bruno Miguel Gonçalves Abreu,B. M. G. Abreu,Portugal,defensive,4-3-3,4,0,2,2,0.0,0.75,1.75,33.0,25.0,25.0,25.0
 portugal_liga_betclic_2026_2027,Bruno Pinheiro,B. Pinheiro,Portugal,balanced,4-2-3-1,39,18,10,11,46.2,1.62,1.05,51.18,41.0,46.2,56.4
@@ -7,8 +8,8 @@ portugal_liga_betclic_2026_2027,Carlos Vicens,C. Vicens,Spain,attacking,3-4-2-1,
 portugal_liga_betclic_2026_2027,Cesar Peixoto,C. Peixoto,Portugal,balanced,4-2-3-1,47,21,13,13,44.7,1.57,1.13,50.0,38.3,48.9,57.4
 portugal_liga_betclic_2026_2027,Cristiano Bacci,C. Bacci,Italy,balanced,3-4-3,34,6,12,16,17.6,1.12,1.65,46.82,23.5,47.1,52.9
 portugal_liga_betclic_2026_2027,Custódio,Custódio,Portugal,balanced,3-4-3,34,10,9,15,29.4,1.03,1.53,44.94,17.6,55.9,50.0
-portugal_liga_betclic_2026_2027,Filipe Coelho,F. Coelho,Portugal,attacking,3-4-3,70,37,18,15,52.9,1.71,0.99,56.74,37.1,50.0,47.1
 portugal_liga_betclic_2026_2027,Filipe Coelho,F. Coelho,Portugal,defensive,4-3-3,6,1,1,4,16.7,0.67,2.83,44.8,16.7,33.3,50.0
+portugal_liga_betclic_2026_2027,Filipe Coelho,F. Coelho,Portugal,attacking,3-4-3,70,37,18,15,52.9,1.71,0.99,56.74,37.1,50.0,47.1
 portugal_liga_betclic_2026_2027,Francesco Farioli,F. Farioli,Italy,attacking,4-3-3,53,41,7,5,77.4,1.83,0.58,54.02,52.8,41.5,50.9
 portugal_liga_betclic_2026_2027,Gil Lameiras,G. Lameiras,Portugal,balanced,4-2-3-1,71,26,18,27,36.6,1.15,1.27,52.27,35.2,46.5,42.3
 portugal_liga_betclic_2026_2027,Gonçalo Feio,G. Feio,Portugal,defensive,4-2-3-1,34,6,10,18,17.6,0.79,1.62,43.56,20.6,35.3,50.0
