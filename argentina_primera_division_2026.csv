@@ -1,47 +1,47 @@
 ﻿league,name,short_name,country,tactical_profile,preferred_formation,matches_total,wins,draws,losses,win_pct,avg_goals_scored,avg_goals_conceded,avg_possession,clean_sheet_pct,btts_pct,over_25_pct
 argentina_primera_division_2026,Alejandro Schiapparelli,A. Schiapparelli,Argentina,defensive,4-2-3-1,12,3,6,3,25.0,0.75,0.92,44.75,58.3,33.3,25.0
-argentina_primera_division_2026,Alexander Medina,A. Medina,Uruguay,defensive,4-2-3-1,52,21,14,17,40.4,1.04,0.77,53.32,42.3,34.6,25.0
-argentina_primera_division_2026,Alfredo Berti,A. Berti,Argentina,balanced,5-3-2,45,20,15,10,44.4,1.42,1.04,46.59,28.9,62.2,51.1
+argentina_primera_division_2026,Alexander Medina,A. Medina,Uruguay,defensive,4-2-3-1,54,22,15,17,40.7,1.06,0.78,53.35,40.7,37.0,25.9
+argentina_primera_division_2026,Alfredo Berti,A. Berti,Argentina,balanced,4-3-1-2,46,21,15,10,45.7,1.48,1.09,46.79,28.3,63.0,52.2
 argentina_primera_division_2026,Ariel Gustavo Pereyra,A. G. Pereyra,Argentina,balanced,4-2-3-1,14,6,1,7,42.9,1.21,1.5,49.79,14.3,57.1,64.3
-argentina_primera_division_2026,Ariel Pereyra,A. Pereyra,Argentina,balanced,4-2-3-1,29,16,2,11,55.2,1.17,1.03,39.63,41.4,34.5,41.4
+argentina_primera_division_2026,Ariel Pereyra,A. Pereyra,Argentina,balanced,4-2-3-1,30,16,3,11,53.3,1.17,1.03,39.5,40.0,36.7,40.0
 argentina_primera_division_2026,Carlos Matheu,C. Matheu,Argentina,attacking,4-2-3-1,3,3,0,0,100.0,2.33,0.67,54.0,33.3,66.7,66.7
-argentina_primera_division_2026,Damián Ayude,D. Ayude,Argentina,defensive,5-3-2,37,11,15,11,29.7,0.86,0.92,42.4,32.4,48.6,27.0
-argentina_primera_division_2026,Dario Franco,D. Franco,Argentina,balanced,4-4-2,24,10,5,9,41.7,1.17,1.21,45.92,29.2,45.8,41.7
-argentina_primera_division_2026,Diego Dabove,D. Dabove,Argentina,balanced,4-4-2,47,14,21,12,29.8,1.02,0.81,44.65,38.3,44.7,25.5
-argentina_primera_division_2026,Diego Flores,D. Flores,Argentina,defensive,3-4-2-1,34,13,9,12,38.2,0.88,0.79,49.7,44.1,32.4,23.5
-argentina_primera_division_2026,Diego Hernán Martínez,D. H. Martínez,Argentina,defensive,4-2-3-1,40,11,17,12,27.5,0.95,0.9,53.13,40.0,42.5,27.5
+argentina_primera_division_2026,Damián Ayude,D. Ayude,Argentina,defensive,5-3-2,38,11,16,11,28.9,0.84,0.89,42.39,34.2,47.4,26.3
+argentina_primera_division_2026,Dario Franco,D. Franco,Argentina,balanced,4-4-2,25,10,5,10,40.0,1.12,1.24,46.16,28.0,44.0,40.0
+argentina_primera_division_2026,Diego Dabove,D. Dabove,Argentina,balanced,4-4-2,48,14,21,13,29.2,1.0,0.81,44.59,37.5,43.8,25.0
+argentina_primera_division_2026,Diego Flores,D. Flores,Argentina,defensive,3-4-2-1,35,13,9,13,37.1,0.91,0.86,49.96,42.9,34.3,25.7
+argentina_primera_division_2026,Diego Hernán Martínez,D. H. Martínez,Argentina,defensive,4-2-3-1,41,12,17,12,29.3,0.98,0.9,52.71,39.0,43.9,29.3
 argentina_primera_division_2026,Eduardo Coudet,E. Coudet,Argentina,balanced,4-2-3-1,50,20,11,19,40.0,1.22,1.0,62.59,34.0,42.0,34.0
-argentina_primera_division_2026,Facundo Sava,F. Sava,Argentina,balanced,4-4-2,36,15,4,17,41.7,1.06,1.25,45.55,30.6,41.7,41.7
-argentina_primera_division_2026,Frank Kudelka,F. Kudelka,Argentina,defensive,4-2-3-1,36,8,12,16,22.2,0.92,1.47,43.29,19.4,50.0,36.1
+argentina_primera_division_2026,Facundo Sava,F. Sava,Argentina,balanced,4-4-2,37,15,5,17,40.5,1.05,1.24,44.87,29.7,43.2,40.5
+argentina_primera_division_2026,Frank Kudelka,F. Kudelka,Argentina,defensive,4-2-3-1,37,8,13,16,21.6,0.92,1.46,43.62,18.9,51.4,35.1
 argentina_primera_division_2026,Guillermo Duro,G. Duro,Argentina,defensive,5-3-2,15,1,6,8,6.7,0.33,0.8,38.73,33.3,20.0,6.7
-argentina_primera_division_2026,Guillermo Duro,G. Duro,Argentina,defensive,5-3-2,27,9,10,8,33.3,0.96,0.93,34.3,37.0,37.0,25.9
-argentina_primera_division_2026,Guillermo Schelotto,G. Schelotto,Argentina,balanced,4-2-3-1,40,17,14,9,42.5,1.15,0.8,53.43,40.0,42.5,27.5
+argentina_primera_division_2026,Guillermo Duro,G. Duro,Argentina,defensive,5-3-2,27,9,10,8,33.3,0.96,0.93,33.86,37.0,37.0,25.9
+argentina_primera_division_2026,Guillermo Schelotto,G. Schelotto,Argentina,balanced,4-2-3-1,41,17,15,9,41.5,1.15,0.8,53.23,39.0,43.9,26.8
 argentina_primera_division_2026,Gustavo Quinteros,G. Quinteros,Bolivia,balanced,4-2-3-1,29,11,9,9,37.9,1.24,1.0,53.29,37.9,44.8,31.0
 argentina_primera_division_2026,Israel Damonte,I. Damonte,Argentina,defensive,4-4-2,33,5,10,18,15.2,0.67,1.24,42.58,24.2,36.4,21.2
-argentina_primera_division_2026,Jadson Viera,J. Viera,Brazil,attacking,4-2-3-1,7,5,1,1,71.4,1.71,1.14,55.0,42.9,42.9,57.1
+argentina_primera_division_2026,Jadson Viera,J. Viera,Brazil,balanced,4-3-3,8,5,2,1,62.5,1.62,1.12,56.83,37.5,50.0,50.0
 argentina_primera_division_2026,Jadson Viera,J. Viera,,defensive,4-2-3-1,3,1,1,1,33.3,0.67,0.67,54.5,33.3,33.3,0.0
 argentina_primera_division_2026,Javier Esteban Sanguinetti,J. E. Sanguinetti,Argentina,,,0,0,0,0,,,,,,,
-argentina_primera_division_2026,Jorge Almiron,J. Almiron,Argentina,defensive,4-2-3-1,47,24,12,11,51.1,1.23,0.77,56.98,38.3,46.8,42.6
+argentina_primera_division_2026,Jorge Almiron,J. Almiron,Argentina,defensive,4-2-3-1,48,25,12,11,52.1,1.23,0.75,57.0,39.6,45.8,41.7
 argentina_primera_division_2026,Jorge Sampaoli,J. Sampaoli,Argentina,defensive,4-2-3-1,37,12,12,13,32.4,0.84,0.97,53.59,40.5,35.1,35.1
-argentina_primera_division_2026,Juan Pablo Vojvoda,J. P. Vojvoda,Argentina,balanced,4-3-3,46,18,14,14,39.1,1.07,0.93,56.47,45.7,45.7,37.0
-argentina_primera_division_2026,Julio Cesar Falcioni,J. C. Falcioni,Argentina,balanced,4-1-4-1,38,12,10,16,31.6,1.03,1.16,44.25,36.8,47.4,50.0
-argentina_primera_division_2026,Julio Vaccari,J. Vaccari,Argentina,balanced,4-2-3-1,37,12,12,13,32.4,1.03,1.27,52.68,21.6,56.8,40.5
-argentina_primera_division_2026,Leonardo Carol Madelon,L. C. Madelon,Argentina,balanced,4-4-2,39,14,13,12,35.9,1.44,1.23,49.48,25.6,59.0,53.8
-argentina_primera_division_2026,Leonardo Ponzio,L. Ponzio,Argentina,attacking,4-3-1-2,5,3,2,0,60.0,1.8,1.0,60.75,40.0,60.0,60.0
+argentina_primera_division_2026,Juan Pablo Vojvoda,J. P. Vojvoda,Argentina,balanced,4-3-3,47,18,14,15,38.3,1.06,0.96,56.57,44.7,46.8,38.3
+argentina_primera_division_2026,Julio Cesar Falcioni,J. C. Falcioni,Argentina,balanced,4-1-4-1,39,12,10,17,30.8,1.03,1.18,43.59,35.9,48.7,51.3
+argentina_primera_division_2026,Julio Vaccari,J. Vaccari,Argentina,balanced,4-2-3-1,38,13,12,13,34.2,1.05,1.24,52.52,23.7,55.3,39.5
+argentina_primera_division_2026,Leonardo Carol Madelon,L. C. Madelon,Argentina,balanced,4-4-2,41,15,13,13,36.6,1.46,1.27,48.97,24.4,61.0,56.1
+argentina_primera_division_2026,Leonardo Ponzio,L. Ponzio,Argentina,attacking,4-3-1-2,6,4,2,0,66.7,1.83,1.0,63.6,33.3,66.7,66.7
 argentina_primera_division_2026,Lucas Pusineri,L. Pusineri,Argentina,defensive,5-3-2,14,5,2,7,35.7,0.79,1.36,42.21,42.9,21.4,28.6
 argentina_primera_division_2026,Mariano Felices,M. Felices,Argentina,,,0,0,0,0,,,,,,,
-argentina_primera_division_2026,Martin Palermo,M. Palermo,Argentina,defensive,4-2-3-1,18,3,7,8,16.7,0.78,1.39,48.92,11.1,55.6,38.9
+argentina_primera_division_2026,Martin Palermo,M. Palermo,Argentina,defensive,4-2-3-1,20,3,7,10,15.0,0.75,1.45,49.67,10.0,55.0,40.0
 argentina_primera_division_2026,Mauricio Pellegrino,M. Pellegrino,Argentina,balanced,4-2-3-1,52,23,13,16,44.2,1.04,0.98,51.68,42.3,34.6,34.6
-argentina_primera_division_2026,Nestor Gorosito,N. Gorosito,Argentina,defensive,4-2-3-1,37,11,14,12,29.7,0.76,0.84,49.5,48.6,32.4,18.9
+argentina_primera_division_2026,Nestor Gorosito,N. Gorosito,Argentina,defensive,4-2-3-1,36,11,13,12,30.6,0.78,0.86,49.48,47.2,33.3,19.4
 argentina_primera_division_2026,Nicolas Diez,N. Diez,Argentina,defensive,4-2-3-1,13,7,5,1,53.8,1.46,0.69,63.77,53.8,46.2,30.8
-argentina_primera_division_2026,Nicolás Diez,N. Diez,Argentina,balanced,4-3-3,28,16,3,9,57.1,1.18,0.86,61.71,39.3,35.7,35.7
+argentina_primera_division_2026,Nicolás Diez,N. Diez,Argentina,balanced,4-3-3,30,16,5,9,53.3,1.13,0.83,61.61,40.0,36.7,33.3
 argentina_primera_division_2026,Omar De Felippe,O. D. Felippe,Argentina,,,0,0,0,0,,,,,,,
 argentina_primera_division_2026,Pablo de Muner,P. Muner,Argentina,defensive,4-4-2,13,1,6,6,7.7,0.69,1.31,62.75,23.1,46.2,23.1
 argentina_primera_division_2026,Pedro Troglio,P. Troglio,Argentina,balanced,4-4-2,36,12,6,18,33.3,1.0,1.31,41.29,25.0,47.2,44.4
-argentina_primera_division_2026,Ricardo Zielinski,R. Zielinski,Argentina,defensive,4-2-3-1,39,15,15,9,38.5,1.03,0.77,50.81,48.7,38.5,33.3
-argentina_primera_division_2026,Rodolfo Arruabarrena,R. Arruabarrena,Argentina,balanced,4-3-3,47,25,14,8,53.2,1.55,0.74,57.77,48.9,44.7,40.4
+argentina_primera_division_2026,Ricardo Zielinski,R. Zielinski,Argentina,defensive,4-2-3-1,40,15,16,9,37.5,1.02,0.78,51.55,47.5,40.0,32.5
+argentina_primera_division_2026,Rodolfo Arruabarrena,R. Arruabarrena,Argentina,balanced,4-3-3,49,27,14,8,55.1,1.57,0.73,57.54,49.0,44.9,40.8
 argentina_primera_division_2026,Ruben Dario Forestello,R. D. Forestello,Argentina,defensive,3-1-4-2,24,2,5,17,8.3,0.33,1.38,46.83,25.0,20.8,25.0
-argentina_primera_division_2026,Ruben Dario Insua,R. D. Insua,Argentina,defensive,3-4-3,6,0,3,3,0.0,0.33,1.33,33.83,33.3,33.3,33.3
-argentina_primera_division_2026,Sebastian Enrique Dominguez,S. E. Dominguez,Argentina,defensive,4-2-3-1,26,6,9,11,23.1,0.73,0.88,48.82,30.8,30.8,23.1
+argentina_primera_division_2026,Ruben Dario Insua,R. D. Insua,Argentina,defensive,3-4-3,9,0,5,4,0.0,0.33,1.11,35.88,33.3,33.3,22.2
+argentina_primera_division_2026,Sebastian Enrique Dominguez,S. E. Dominguez,Argentina,defensive,4-2-3-1,27,6,9,12,22.2,0.74,0.96,48.61,29.6,33.3,25.9
 argentina_primera_division_2026,Walter Adrian Zunino,W. A. Zunino,Argentina,defensive,4-2-3-1,25,6,9,10,24.0,0.84,1.2,50.0,28.0,44.0,36.0
 argentina_primera_division_2026,Walter Perazzo,W. Perazzo,Argentina,,,0,0,0,0,,,,,,,
