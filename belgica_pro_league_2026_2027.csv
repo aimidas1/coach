@@ -1,4 +1,5 @@
 ﻿league,name,short_name,country,tactical_profile,preferred_formation,matches_total,wins,draws,losses,win_pct,avg_goals_scored,avg_goals_conceded,avg_possession,clean_sheet_pct,btts_pct,over_25_pct
+belgica_pro_league_2026_2027,Christophe Lepoint,C. Lepoint,Belgium,,,0,0,0,0,,,,,,,
 belgica_pro_league_2026_2027,David Hubert,D. Hubert,Belgium,attacking,3-4-2-1,62,38,13,11,61.3,1.94,1.02,48.96,43.5,46.8,54.8
 belgica_pro_league_2026_2027,Edward Still,E. Still,Belgium,balanced,4-4-2,61,17,19,25,27.9,1.13,1.54,49.15,16.4,57.4,54.1
 belgica_pro_league_2026_2027,Faris Haroun,F. Haroun,Belgium,balanced,3-4-1-2,40,13,9,18,32.5,1.07,1.2,49.42,25.0,42.5,40.0
@@ -16,8 +17,8 @@ belgica_pro_league_2026_2027,Lee Johnson,L. Johnson,England,attacking,4-4-2,18,1
 belgica_pro_league_2026_2027,Mario Kohnen,M. Kohnen,Belgium,balanced,4-2-3-1,52,20,11,21,38.5,1.4,1.33,50.41,26.9,57.7,48.1
 belgica_pro_league_2026_2027,Marvin Compper,M. Compper,Germany,balanced,4-2-3-1,13,4,3,6,30.8,1.46,1.46,45.09,23.1,53.8,53.8
 belgica_pro_league_2026_2027,Michael Beale,M. Beale,England,attacking,3-4-1-2,14,8,4,2,57.1,2.29,1.21,44.0,28.6,64.3,71.4
-belgica_pro_league_2026_2027,Michiel Jonckheere,M. Jonckheere,Belgium,attacking,3-4-1-2,10,5,2,3,50.0,2.5,1.2,50.0,20.0,70.0,60.0
 belgica_pro_league_2026_2027,Michiel Jonckheere,M. Jonckheere,Belgium,balanced,3-4-1-2,16,5,3,8,31.2,1.69,1.56,50.67,12.5,56.2,56.2
+belgica_pro_league_2026_2027,Michiel Jonckheere,M. Jonckheere,Belgium,attacking,3-4-1-2,10,5,2,3,50.0,2.5,1.2,50.0,20.0,70.0,60.0
 belgica_pro_league_2026_2027,Mohamed Messoudi,M. Messoudi,Belgium,attacking,4-2-3-1,16,10,2,4,62.5,2.12,1.38,54.75,18.8,68.8,68.8
 belgica_pro_league_2026_2027,Nicky Hayen,N. Hayen,Belgium,balanced,4-2-3-1,71,23,24,24,32.4,1.39,1.48,55.97,19.7,69.0,56.3
 belgica_pro_league_2026_2027,Rik De Mil,R. D. Mil,Belgium,balanced,3-4-2-1,57,23,18,16,40.4,1.56,1.26,49.12,29.8,56.1,50.9
