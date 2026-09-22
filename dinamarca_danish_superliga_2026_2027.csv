@@ -1,18 +1,18 @@
 ﻿league,name,short_name,country,tactical_profile,preferred_formation,matches_total,wins,draws,losses,win_pct,avg_goals_scored,avg_goals_conceded,avg_possession,clean_sheet_pct,btts_pct,over_25_pct
-dinamarca_danish_superliga_2026_2027,Alexander Zorniger,A. Zorniger,Germany,balanced,4-4-2,130,40,40,50,30.8,1.39,1.6,54.0,16.9,70.0,60.8
-dinamarca_danish_superliga_2026_2027,Bo Svensson,B. Svensson,Denmark,attacking,4-2-3-1,198,112,42,44,56.6,1.99,1.14,50.14,34.8,58.1,61.1
-dinamarca_danish_superliga_2026_2027,Claus Norgaard,C. Norgaard,Denmark,balanced,4-2-3-1,137,29,39,69,21.2,1.1,1.72,44.43,18.2,57.7,53.3
-dinamarca_danish_superliga_2026_2027,Fatah Abdirahman,F. Abdirahman,Denmark,balanced,4-2-3-1,111,28,30,53,25.2,1.27,1.83,42.9,16.2,61.3,56.8
-dinamarca_danish_superliga_2026_2027,Jakob Poulsen,J. Poulsen,Denmark,balanced,3-4-2-1,174,62,56,56,35.6,1.43,1.3,52.76,25.3,61.5,47.7
-dinamarca_danish_superliga_2026_2027,Jens Olsen,J. Olsen,Denmark,balanced,3-4-3,185,80,50,55,43.2,1.62,1.32,57.46,24.9,57.8,51.9
+dinamarca_danish_superliga_2026_2027,Alexander Zorniger,A. Zorniger,Germany,balanced,4-4-2,130,40,40,50,30.8,1.39,1.6,53.42,16.9,70.0,60.8
+dinamarca_danish_superliga_2026_2027,Bo Svensson,B. Svensson,Denmark,attacking,4-2-3-1,199,113,42,44,56.8,1.98,1.13,50.73,35.2,57.8,60.8
+dinamarca_danish_superliga_2026_2027,Claus Norgaard,C. Norgaard,Denmark,balanced,4-2-3-1,137,29,39,69,21.2,1.1,1.72,44.46,18.2,57.7,53.3
+dinamarca_danish_superliga_2026_2027,Fatah Abdirahman,F. Abdirahman,Denmark,balanced,4-2-3-1,112,29,30,53,25.9,1.29,1.83,43.29,16.1,61.6,57.1
+dinamarca_danish_superliga_2026_2027,Jakob Poulsen,J. Poulsen,Denmark,balanced,3-4-2-1,182,68,58,56,37.4,1.48,1.29,52.39,25.8,61.5,48.9
+dinamarca_danish_superliga_2026_2027,Jens Olsen,J. Olsen,Denmark,balanced,3-4-3,186,80,50,56,43.0,1.61,1.34,57.18,24.7,58.1,52.2
 dinamarca_danish_superliga_2026_2027,Martin Retov,M. Retov,Denmark,defensive,4-3-3,37,4,11,22,10.8,0.95,2.08,50.0,10.8,59.5,59.5
-dinamarca_danish_superliga_2026_2027,Michael Hansen,M. Hansen,Denmark,balanced,4-2-3-1,41,14,11,16,34.1,1.49,1.85,44.91,17.1,58.5,68.3
-dinamarca_danish_superliga_2026_2027,Mike Tullberg,M. Tullberg,Denmark,attacking,4-4-2,201,116,47,38,57.7,2.01,1.18,54.96,30.8,59.2,59.2
-dinamarca_danish_superliga_2026_2027,Mikkel Jespersen,M. Jespersen,Denmark,balanced,4-4-2,112,27,37,48,24.1,1.13,1.48,50.56,18.8,54.5,45.5
-dinamarca_danish_superliga_2026_2027,Morten Dahm Kjærgaard,M. D. Kjærgaard,Denmark,balanced,3-4-2-1,177,63,44,70,35.6,1.53,1.53,47.94,19.2,59.3,58.8
-dinamarca_danish_superliga_2026_2027,Nickolai Konig Lund,N. K. Lund,Denmark,balanced,4-3-3,179,68,51,60,38.0,1.44,1.37,47.67,22.9,62.6,53.6
-dinamarca_danish_superliga_2026_2027,Niki Zimling,N. Zimling,Denmark,balanced,4-2-3-1,49,13,9,27,26.5,1.2,1.73,45.88,16.3,53.1,55.1
-dinamarca_danish_superliga_2026_2027,Rasmus Bertelsen,R. Bertelsen,Denmark,balanced,4-2-3-1,176,59,49,68,33.5,1.31,1.49,46.48,24.4,57.4,54.5
+dinamarca_danish_superliga_2026_2027,Michael Hansen,M. Hansen,Denmark,balanced,4-2-3-1,41,14,11,16,34.1,1.49,1.85,44.72,17.1,58.5,68.3
+dinamarca_danish_superliga_2026_2027,Mike Tullberg,M. Tullberg,Denmark,attacking,4-4-2,202,116,48,38,57.4,2.01,1.18,54.2,30.7,59.4,58.9
+dinamarca_danish_superliga_2026_2027,Mikkel Jespersen,M. Jespersen,Denmark,balanced,4-4-2,113,27,37,49,23.9,1.12,1.5,50.0,18.6,54.0,46.0
+dinamarca_danish_superliga_2026_2027,Morten Dahm Kjærgaard,M. D. Kjærgaard,Denmark,balanced,3-4-2-1,178,64,44,70,36.0,1.54,1.52,48.06,19.7,59.0,59.0
+dinamarca_danish_superliga_2026_2027,Nickolai Konig Lund,N. K. Lund,Denmark,balanced,4-3-3,180,69,51,60,38.3,1.46,1.37,48.12,22.8,62.8,53.9
+dinamarca_danish_superliga_2026_2027,Niki Zimling,N. Zimling,Denmark,balanced,4-2-3-1,50,13,10,27,26.0,1.22,1.74,46.67,16.0,54.0,56.0
+dinamarca_danish_superliga_2026_2027,Rasmus Bertelsen,R. Bertelsen,Denmark,balanced,4-2-3-1,177,59,49,69,33.3,1.32,1.5,46.73,24.3,57.6,54.8
 dinamarca_danish_superliga_2026_2027,Steffen Hojer,S. Hojer,Denmark,balanced,4-3-3,106,28,27,51,26.4,1.25,1.66,53.0,23.6,53.8,59.4
-dinamarca_danish_superliga_2026_2027,Thomas Norgaard,T. Norgaard,Denmark,balanced,4-2-3-1,181,76,49,56,42.0,1.6,1.35,51.74,27.6,58.6,56.9
-dinamarca_danish_superliga_2026_2027,Thomas Thomasberg,T. Thomasberg,Denmark,balanced,4-4-2,51,20,9,22,39.2,1.43,1.55,49.89,15.7,60.8,56.9
+dinamarca_danish_superliga_2026_2027,Thomas Norgaard,T. Norgaard,Denmark,balanced,4-2-3-1,182,76,49,57,41.8,1.59,1.35,51.95,27.5,58.2,56.6
+dinamarca_danish_superliga_2026_2027,Thomas Thomasberg,T. Thomasberg,Denmark,balanced,4-4-2,52,20,10,22,38.5,1.42,1.54,50.19,15.4,61.5,55.8

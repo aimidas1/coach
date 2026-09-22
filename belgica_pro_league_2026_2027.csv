@@ -1,32 +1,32 @@
 ﻿league,name,short_name,country,tactical_profile,preferred_formation,matches_total,wins,draws,losses,win_pct,avg_goals_scored,avg_goals_conceded,avg_possession,clean_sheet_pct,btts_pct,over_25_pct
-belgica_pro_league_2026_2027,Christophe Lepoint,C. Lepoint,Belgium,,,0,0,0,0,,,,,,,
-belgica_pro_league_2026_2027,David Hubert,D. Hubert,Belgium,attacking,3-4-2-1,62,38,13,11,61.3,1.94,1.02,48.96,43.5,46.8,54.8
-belgica_pro_league_2026_2027,Edward Still,E. Still,Belgium,balanced,4-4-2,61,17,19,25,27.9,1.13,1.54,49.15,16.4,57.4,54.1
+belgica_pro_league_2026_2027,Christophe Lepoint,C. Lepoint,Belgium,attacking,3-4-1-2,4,3,1,0,75.0,2.75,0.75,43.0,25.0,75.0,50.0
+belgica_pro_league_2026_2027,David Hubert,D. Hubert,Belgium,attacking,3-4-2-1,64,40,13,11,62.5,1.95,0.98,49.04,45.3,45.3,54.7
+belgica_pro_league_2026_2027,Edward Still,E. Still,Belgium,balanced,4-4-2,62,17,19,26,27.4,1.11,1.55,49.21,16.1,56.5,53.2
 belgica_pro_league_2026_2027,Faris Haroun,F. Haroun,Belgium,balanced,3-4-1-2,40,13,9,18,32.5,1.07,1.2,49.42,25.0,42.5,40.0
-belgica_pro_league_2026_2027,Felice Mazzu,F. Mazzu,Belgium,balanced,3-4-2-1,53,19,11,23,35.8,1.47,1.42,46.34,28.3,50.9,52.8
-belgica_pro_league_2026_2027,Frédéric De Meyer,F. D. Meyer,Belgium,attacking,4-2-3-1,16,8,3,5,50.0,1.88,1.25,49.67,37.5,37.5,62.5
+belgica_pro_league_2026_2027,Felice Mazzu,F. Mazzu,Belgium,balanced,3-4-2-1,54,20,11,23,37.0,1.5,1.41,46.5,27.8,51.9,53.7
+belgica_pro_league_2026_2027,Frédéric De Meyer,F. D. Meyer,Belgium,attacking,4-2-3-1,17,8,3,6,47.1,1.76,1.29,49.85,35.3,35.3,58.8
 belgica_pro_league_2026_2027,Frédéric Taquin,F. Taquin,Belgium,defensive,3-4-1-2,36,7,13,16,19.4,0.97,1.39,38.78,27.8,50.0,47.2
-belgica_pro_league_2026_2027,Frederik Vanderbiest,F. Vanderbiest,Belgium,balanced,3-4-1-2,53,17,15,21,32.1,1.19,1.51,49.3,24.5,54.7,47.2
-belgica_pro_league_2026_2027,Gaetan Englebert,G. Englebert,Belgium,attacking,4-1-4-1,15,4,6,5,26.7,2.27,1.27,51.11,33.3,53.3,60.0
-belgica_pro_league_2026_2027,Issame Charai,I. Charai,Morocco,balanced,4-2-3-1,55,18,14,23,32.7,1.29,1.56,49.42,30.9,43.6,47.3
-belgica_pro_league_2026_2027,Ivan Leko,I. Leko,Croatia,attacking,4-2-3-1,66,41,7,18,62.1,2.23,1.36,58.02,28.8,60.6,74.2
+belgica_pro_league_2026_2027,Frederik Vanderbiest,F. Vanderbiest,Belgium,balanced,3-4-1-2,54,17,16,21,31.5,1.17,1.5,49.25,24.1,55.6,48.1
+belgica_pro_league_2026_2027,Gaetan Englebert,G. Englebert,Belgium,attacking,4-1-4-1,16,4,6,6,25.0,2.19,1.38,51.0,31.2,56.2,62.5
+belgica_pro_league_2026_2027,Issame Charai,I. Charai,Morocco,balanced,4-2-3-1,56,19,14,23,33.9,1.3,1.54,49.39,32.1,42.9,46.4
+belgica_pro_league_2026_2027,Ivan Leko,I. Leko,Croatia,attacking,4-2-3-1,67,42,7,18,62.7,2.24,1.34,58.06,29.9,59.7,74.6
 belgica_pro_league_2026_2027,Jérémy Taravel,J. Taravel,France,balanced,4-2-3-1,42,16,10,16,38.1,1.45,1.52,52.65,26.2,57.1,52.4
-belgica_pro_league_2026_2027,Jess Thorup,J. Thorup,Denmark,attacking,4-2-3-1,16,7,3,6,43.8,2.0,1.88,52.27,18.8,62.5,75.0
-belgica_pro_league_2026_2027,Lars Friis,L. Friis,Denmark,balanced,3-4-2-1,46,10,16,20,21.7,1.39,1.7,47.6,17.4,65.2,58.7
-belgica_pro_league_2026_2027,Lee Johnson,L. Johnson,England,attacking,4-4-2,18,10,3,5,55.6,1.72,1.5,45.08,22.2,55.6,66.7
-belgica_pro_league_2026_2027,Mario Kohnen,M. Kohnen,Belgium,balanced,4-2-3-1,52,20,11,21,38.5,1.4,1.33,50.41,26.9,57.7,48.1
-belgica_pro_league_2026_2027,Marvin Compper,M. Compper,Germany,balanced,4-2-3-1,13,4,3,6,30.8,1.46,1.46,45.09,23.1,53.8,53.8
-belgica_pro_league_2026_2027,Michael Beale,M. Beale,England,attacking,3-4-1-2,14,8,4,2,57.1,2.29,1.21,44.0,28.6,64.3,71.4
-belgica_pro_league_2026_2027,Michiel Jonckheere,M. Jonckheere,Belgium,balanced,3-4-1-2,16,5,3,8,31.2,1.69,1.56,50.67,12.5,56.2,56.2
+belgica_pro_league_2026_2027,Jess Thorup,J. Thorup,Denmark,attacking,4-2-3-1,17,7,3,7,41.2,1.88,1.94,51.17,17.6,58.8,76.5
+belgica_pro_league_2026_2027,Lars Friis,L. Friis,Denmark,balanced,4-4-2,47,10,16,21,21.3,1.4,1.72,47.34,17.0,66.0,59.6
+belgica_pro_league_2026_2027,Lee Johnson,L. Johnson,England,balanced,4-4-2,19,10,4,5,52.6,1.63,1.42,45.64,26.3,52.6,63.2
+belgica_pro_league_2026_2027,Mario Kohnen,M. Kohnen,Belgium,balanced,4-2-3-1,53,21,11,21,39.6,1.43,1.34,50.68,26.4,58.5,49.1
+belgica_pro_league_2026_2027,Marvin Compper,M. Compper,Germany,balanced,4-4-2,14,4,3,7,28.6,1.36,1.5,45.42,21.4,50.0,50.0
+belgica_pro_league_2026_2027,Michael Beale,M. Beale,England,attacking,4-3-3,15,8,4,3,53.3,2.13,1.33,43.44,26.7,60.0,73.3
+belgica_pro_league_2026_2027,Michiel Jonckheere,M. Jonckheere,Belgium,balanced,3-4-1-2,13,3,2,8,23.1,1.31,1.69,50.67,15.4,46.2,53.8
 belgica_pro_league_2026_2027,Michiel Jonckheere,M. Jonckheere,Belgium,attacking,3-4-1-2,10,5,2,3,50.0,2.5,1.2,50.0,20.0,70.0,60.0
-belgica_pro_league_2026_2027,Mohamed Messoudi,M. Messoudi,Belgium,attacking,4-2-3-1,16,10,2,4,62.5,2.12,1.38,54.75,18.8,68.8,68.8
-belgica_pro_league_2026_2027,Nicky Hayen,N. Hayen,Belgium,balanced,4-2-3-1,71,23,24,24,32.4,1.39,1.48,55.97,19.7,69.0,56.3
-belgica_pro_league_2026_2027,Rik De Mil,R. D. Mil,Belgium,balanced,3-4-2-1,57,23,18,16,40.4,1.56,1.26,49.12,29.8,56.1,50.9
+belgica_pro_league_2026_2027,Mohamed Messoudi,M. Messoudi,Belgium,attacking,4-2-3-1,17,11,2,4,64.7,2.06,1.29,54.0,23.5,64.7,64.7
+belgica_pro_league_2026_2027,Nicky Hayen,N. Hayen,Belgium,balanced,4-2-3-1,72,23,25,24,31.9,1.39,1.47,55.91,19.4,69.4,55.6
+belgica_pro_league_2026_2027,Rik De Mil,R. D. Mil,Belgium,balanced,3-4-2-1,58,24,18,16,41.4,1.57,1.26,49.04,29.3,56.9,51.7
 belgica_pro_league_2026_2027,Steve Colpaert,S. Colpaert,Belgium,balanced,4-2-3-1,36,13,9,14,36.1,1.47,1.47,48.33,22.2,61.1,52.8
-belgica_pro_league_2026_2027,Stijn Stijnen,S. Stijnen,Belgium,balanced,4-1-4-1,15,2,6,7,13.3,1.13,1.87,37.8,20.0,73.3,66.7
-belgica_pro_league_2026_2027,Tim Bakens,T. Bakens,Netherlands,attacking,4-2-3-1,11,6,0,5,54.5,1.91,2.0,48.5,36.4,36.4,72.7
-belgica_pro_league_2026_2027,Timmy Simons,T. Simons,Belgium,attacking,3-4-3,14,3,3,8,21.4,1.79,2.14,48.29,14.3,57.1,71.4
-belgica_pro_league_2026_2027,Vincent Euvrard,V. Euvrard,Belgium,balanced,4-2-3-1,54,24,11,19,44.4,1.35,1.2,45.8,31.5,42.6,50.0
-belgica_pro_league_2026_2027,Vítor Bruno,V. Bruno,Portugal,balanced,4-4-2,17,9,4,4,52.9,1.35,0.94,57.2,41.2,41.2,47.1
-belgica_pro_league_2026_2027,Wouter Vrancken,W. Vrancken,Belgium,balanced,4-2-3-1,55,29,8,18,52.7,1.55,1.31,53.58,21.8,60.0,61.8
+belgica_pro_league_2026_2027,Stijn Stijnen,S. Stijnen,Belgium,balanced,4-1-4-1,16,2,6,8,12.5,1.06,1.81,38.55,18.8,68.8,62.5
+belgica_pro_league_2026_2027,Tim Bakens,T. Bakens,Netherlands,attacking,4-2-3-1,12,6,0,6,50.0,1.75,1.92,49.71,33.3,33.3,66.7
+belgica_pro_league_2026_2027,Timmy Simons,T. Simons,Belgium,attacking,3-4-3,15,4,3,8,26.7,1.8,2.0,48.12,20.0,53.3,66.7
+belgica_pro_league_2026_2027,Vincent Euvrard,V. Euvrard,Belgium,balanced,4-3-3,55,24,11,20,43.6,1.35,1.22,45.98,30.9,43.6,50.9
+belgica_pro_league_2026_2027,Vítor Bruno,V. Bruno,Portugal,balanced,4-4-2,19,10,4,5,52.6,1.42,0.95,57.58,42.1,42.1,52.6
+belgica_pro_league_2026_2027,Wouter Vrancken,W. Vrancken,Belgium,balanced,4-2-3-1,57,29,9,19,50.9,1.53,1.32,53.93,21.1,61.4,61.4
 belgica_pro_league_2026_2027,Yannick Ferrera,Y. Ferrera,Belgium,defensive,5-3-2,38,5,11,22,13.2,0.87,1.71,48.0,18.4,60.5,55.3
