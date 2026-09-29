@@ -1,5 +1,5 @@
 ﻿league,name,short_name,country,tactical_profile,preferred_formation,matches_total,wins,draws,losses,win_pct,avg_goals_scored,avg_goals_conceded,avg_possession,clean_sheet_pct,btts_pct,over_25_pct
-belgica_pro_league_2026_2027,Christophe Lepoint,C. Lepoint,Belgium,attacking,3-4-1-2,4,3,1,0,75.0,2.75,0.75,43.0,25.0,75.0,50.0
+belgica_pro_league_2026_2027,Christophe Lepoint,C. Lepoint,Belgium,attacking,3-4-1-2,12,6,3,3,50.0,2.25,1.08,46.5,25.0,66.7,50.0
 belgica_pro_league_2026_2027,David Hubert,D. Hubert,Belgium,attacking,3-4-2-1,64,40,13,11,62.5,1.95,0.98,49.04,45.3,45.3,54.7
 belgica_pro_league_2026_2027,Edward Still,E. Still,Belgium,balanced,4-4-2,62,17,19,26,27.4,1.11,1.55,49.21,16.1,56.5,53.2
 belgica_pro_league_2026_2027,Faris Haroun,F. Haroun,Belgium,balanced,3-4-1-2,40,13,9,18,32.5,1.07,1.2,49.42,25.0,42.5,40.0
@@ -17,7 +17,7 @@ belgica_pro_league_2026_2027,Lee Johnson,L. Johnson,England,balanced,4-4-2,19,10
 belgica_pro_league_2026_2027,Mario Kohnen,M. Kohnen,Belgium,balanced,4-2-3-1,53,21,11,21,39.6,1.43,1.34,50.68,26.4,58.5,49.1
 belgica_pro_league_2026_2027,Marvin Compper,M. Compper,Germany,balanced,4-4-2,14,4,3,7,28.6,1.36,1.5,45.42,21.4,50.0,50.0
 belgica_pro_league_2026_2027,Michael Beale,M. Beale,England,attacking,4-3-3,15,8,4,3,53.3,2.13,1.33,43.44,26.7,60.0,73.3
-belgica_pro_league_2026_2027,Michiel Jonckheere,M. Jonckheere,Belgium,balanced,3-4-1-2,13,3,2,8,23.1,1.31,1.69,50.67,15.4,46.2,53.8
+belgica_pro_league_2026_2027,Michiel Jonckheere,M. Jonckheere,Belgium,defensive,3-4-2-1,5,0,0,5,0.0,0.2,2.4,50.8,0.0,20.0,60.0
 belgica_pro_league_2026_2027,Michiel Jonckheere,M. Jonckheere,Belgium,attacking,3-4-1-2,10,5,2,3,50.0,2.5,1.2,50.0,20.0,70.0,60.0
 belgica_pro_league_2026_2027,Mohamed Messoudi,M. Messoudi,Belgium,attacking,4-2-3-1,17,11,2,4,64.7,2.06,1.29,54.0,23.5,64.7,64.7
 belgica_pro_league_2026_2027,Nicky Hayen,N. Hayen,Belgium,balanced,4-2-3-1,72,23,25,24,31.9,1.39,1.47,55.91,19.4,69.4,55.6
@@ -28,5 +28,5 @@ belgica_pro_league_2026_2027,Tim Bakens,T. Bakens,Netherlands,attacking,4-2-3-1,
 belgica_pro_league_2026_2027,Timmy Simons,T. Simons,Belgium,attacking,3-4-3,15,4,3,8,26.7,1.8,2.0,48.12,20.0,53.3,66.7
 belgica_pro_league_2026_2027,Vincent Euvrard,V. Euvrard,Belgium,balanced,4-3-3,55,24,11,20,43.6,1.35,1.22,45.98,30.9,43.6,50.9
 belgica_pro_league_2026_2027,Vítor Bruno,V. Bruno,Portugal,balanced,4-4-2,19,10,4,5,52.6,1.42,0.95,57.58,42.1,42.1,52.6
-belgica_pro_league_2026_2027,Wouter Vrancken,W. Vrancken,Belgium,balanced,4-2-3-1,57,29,9,19,50.9,1.53,1.32,53.93,21.1,61.4,61.4
+belgica_pro_league_2026_2027,Wouter Vrancken,W. Vrancken,Belgium,balanced,4-2-3-1,60,31,9,20,51.7,1.52,1.32,53.63,23.3,60.0,60.0
 belgica_pro_league_2026_2027,Yannick Ferrera,Y. Ferrera,Belgium,defensive,5-3-2,38,5,11,22,13.2,0.87,1.71,48.0,18.4,60.5,55.3
