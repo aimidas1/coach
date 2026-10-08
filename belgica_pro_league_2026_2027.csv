@@ -1,5 +1,6 @@
 ﻿league,name,short_name,country,tactical_profile,preferred_formation,matches_total,wins,draws,losses,win_pct,avg_goals_scored,avg_goals_conceded,avg_possession,clean_sheet_pct,btts_pct,over_25_pct
 belgica_pro_league_2026_2027,Christophe Lepoint,C. Lepoint,Belgium,attacking,3-4-1-2,12,6,3,3,50.0,2.25,1.08,46.5,25.0,66.7,50.0
+belgica_pro_league_2026_2027,Daniel Beichler,D. Beichler,Austria,balanced,4-4-2,12,3,1,8,25.0,1.42,1.75,45.08,8.3,58.3,50.0
 belgica_pro_league_2026_2027,David Hubert,D. Hubert,Belgium,attacking,3-4-1-2,58,35,13,10,60.3,1.78,0.91,49.04,46.6,43.1,50.0
 belgica_pro_league_2026_2027,David Hubert,D. Hubert,Belgium,attacking,3-4-2-1,6,5,0,1,83.3,3.67,1.67,,33.3,66.7,100.0
 belgica_pro_league_2026_2027,Edward Still,E. Still,Belgium,balanced,4-4-2,63,18,19,26,28.6,1.16,1.52,49.21,17.5,55.6,54.0
