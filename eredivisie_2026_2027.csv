@@ -1,10 +1,11 @@
 ﻿league,name,short_name,country,tactical_profile,preferred_formation,matches_total,wins,draws,losses,win_pct,avg_goals_scored,avg_goals_conceded,avg_possession,clean_sheet_pct,btts_pct,over_25_pct
 eredivisie_2026_2027,Anoush Dastgir,A. Dastgir,Afghanistan,attacking,4-2-3-1,6,3,0,3,50.0,2.33,2.33,43.0,0.0,83.3,100.0
-eredivisie_2026_2027,Anthony Correia,A. Correia,Netherlands,balanced,3-4-2-1,42,11,12,19,26.2,1.5,1.9,45.12,11.9,69.0,66.7
 eredivisie_2026_2027,Anthony Correia,A. Correia,Netherlands,defensive,4-2-3-1,5,1,0,4,20.0,0.4,1.0,59.0,20.0,20.0,20.0
+eredivisie_2026_2027,Anthony Correia,A. Correia,Netherlands,balanced,3-4-2-1,42,11,12,19,26.2,1.5,1.9,45.12,11.9,69.0,66.7
 eredivisie_2026_2027,Bart Schreuder,B. Schreuder,Netherlands,attacking,,5,3,1,1,60.0,2.0,0.8,55.0,40.0,60.0,60.0
 eredivisie_2026_2027,Carl Hoefkens,C. Hoefkens,Belgium,balanced,4-2-3-1,34,6,11,17,17.6,1.03,1.71,49.0,17.6,47.1,50.0
 eredivisie_2026_2027,Danny Buijs,D. Buijs,Netherlands,balanced,4-2-3-1,48,19,8,21,39.6,1.5,1.81,42.74,10.4,77.1,68.8
+eredivisie_2026_2027,Dennis van der Ree,D. v. d. Ree,Netherlands,,,0,0,0,0,,,,,,,
 eredivisie_2026_2027,Dick Lukkien,D. Lukkien,Netherlands,balanced,4-2-3-1,50,20,9,21,40.0,1.5,1.5,50.27,26.0,58.0,62.0
 eredivisie_2026_2027,Dick Schreuder,D. Schreuder,Netherlands,attacking,3-4-2-1,54,21,16,17,38.9,2.02,1.67,55.69,13.0,77.8,74.1
 eredivisie_2026_2027,Ernest Faber,E. Faber,Netherlands,balanced,4-2-3-1,34,5,4,25,14.7,1.03,2.5,44.71,5.9,50.0,70.6
@@ -19,6 +20,7 @@ eredivisie_2026_2027,John van den Brom,J. v. d. Brom,Netherlands,attacking,4-2-3
 eredivisie_2026_2027,Joseph Oosting,J. Oosting,Netherlands,attacking,4-2-3-1,15,7,5,3,46.7,3.6,1.6,54.67,20.0,73.3,80.0
 eredivisie_2026_2027,Kevin Van Dessel,K. V. Dessel,Belgium,,,0,0,0,0,,,,,,,
 eredivisie_2026_2027,Leeroy Echteld,L. Echteld,Netherlands,attacking,4-2-3-1,62,31,15,16,50.0,1.84,1.32,54.23,32.3,54.8,61.3
+eredivisie_2026_2027,Maikel van der Werff,M. v. d. Werff,,,,0,0,0,0,,,,,,,
 eredivisie_2026_2027,Marinus Dijkhuizen,M. Dijkhuizen,Netherlands,attacking,4-2-3-1,4,0,1,3,0.0,2.0,3.25,62.0,0.0,100.0,100.0
 eredivisie_2026_2027,Maurice Steijn,M. Steijn,Netherlands,balanced,4-2-3-1,34,12,7,15,35.3,1.18,1.82,47.09,32.4,44.1,52.9
 eredivisie_2026_2027,Melvin Boel,M. Boel,Netherlands,balanced,4-2-3-1,42,10,15,17,23.8,1.43,1.6,49.21,23.8,57.1,61.9
