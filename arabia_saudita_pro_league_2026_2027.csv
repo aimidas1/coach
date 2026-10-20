@@ -1,39 +1,39 @@
 ﻿league,name,short_name,country,tactical_profile,preferred_formation,matches_total,wins,draws,losses,win_pct,avg_goals_scored,avg_goals_conceded,avg_possession,clean_sheet_pct,btts_pct,over_25_pct
-arabia_saudita_pro_league_2026_2027,Abderrazek Chebbi,A. Chebbi,Tunisia,,,0,0,0,0,,,,,,,
+arabia_saudita_pro_league_2026_2027,Abderrazek Chebbi,A. Chebbi,Tunisia,defensive,4-2-3-1,3,0,1,2,0.0,0.0,0.67,,33.3,0.0,0.0
 arabia_saudita_pro_league_2026_2027,Angelo Bozzetti,A. Bozzetti,,balanced,4-2-3-1,34,8,11,15,23.5,1.29,1.68,48.85,20.6,61.8,44.1
-arabia_saudita_pro_league_2026_2027,Ange Postecoglou,A. Postecoglou,Australia,attacking,4-4-1-1,12,7,1,4,58.3,2.0,1.25,55.5,33.3,58.3,75.0
-arabia_saudita_pro_league_2026_2027,Arthur Papas,A. Papas,Australia,balanced,4-2-3-1,72,28,21,23,38.9,1.62,1.39,52.97,22.2,66.7,59.7
-arabia_saudita_pro_league_2026_2027,Brendan Rodgers,B. Rodgers,Northern Ireland,attacking,3-1-4-2,44,29,10,5,65.9,2.36,0.98,59.65,31.8,61.4,65.9
-arabia_saudita_pro_league_2026_2027,Bruno Lage,B. Lage,Portugal,balanced,4-4-2,12,5,3,4,41.7,1.25,1.0,48.25,33.3,41.7,41.7
-arabia_saudita_pro_league_2026_2027,Bruno Pereira,B. Pereira,Portugal,,,0,0,0,0,,,,,,,
-arabia_saudita_pro_league_2026_2027,Christophe Galtier,C. Galtier,France,balanced,4-4-2,13,8,2,3,61.5,1.54,0.77,51.8,46.2,30.8,30.8
-arabia_saudita_pro_league_2026_2027,Damir Burić,D. Burić,Croatia,defensive,4-2-3-1,9,0,3,6,0.0,0.67,1.67,47.29,22.2,55.6,55.6
-arabia_saudita_pro_league_2026_2027,Des Buckingham,D. Buckingham,England,balanced,4-2-3-1,45,12,10,23,26.7,1.18,1.8,47.02,13.3,55.6,62.2
-arabia_saudita_pro_league_2026_2027,Fabiano José Costa Flora,F. J. C. Flora,Portugal,,,0,0,0,0,,,,,,,
-arabia_saudita_pro_league_2026_2027,Fábio Carille,F. Carille,Brazil,defensive,4-2-3-1,46,7,17,22,15.2,0.87,1.65,46.47,21.7,54.3,47.8
+arabia_saudita_pro_league_2026_2027,Ange Postecoglou,A. Postecoglou,Australia,attacking,4-4-2,16,9,2,5,56.2,2.38,1.19,55.5,37.5,56.2,68.8
+arabia_saudita_pro_league_2026_2027,Arthur Papas,A. Papas,Australia,balanced,4-2-3-1,73,29,22,22,39.7,1.58,1.37,52.03,21.9,67.1,58.9
+arabia_saudita_pro_league_2026_2027,Brendan Rodgers,B. Rodgers,Northern Ireland,attacking,3-5-2,48,32,10,6,66.7,2.33,1.0,59.8,29.2,62.5,66.7
+arabia_saudita_pro_league_2026_2027,Bruno Lage,B. Lage,Portugal,balanced,4-2-3-1,13,5,4,4,38.5,1.23,1.0,49.44,30.8,46.2,38.5
+arabia_saudita_pro_league_2026_2027,Bruno Pereira,B. Pereira,Portugal,balanced,4-4-1-1,4,1,0,3,25.0,1.25,2.75,,0.0,75.0,100.0
+arabia_saudita_pro_league_2026_2027,Christophe Galtier,C. Galtier,France,defensive,4-4-2,14,8,2,4,57.1,1.43,0.79,52.45,42.9,28.6,28.6
+arabia_saudita_pro_league_2026_2027,Damir Burić,D. Burić,Croatia,defensive,5-4-1,10,0,3,7,0.0,0.7,1.7,45.62,20.0,60.0,60.0
+arabia_saudita_pro_league_2026_2027,Des Buckingham,D. Buckingham,England,balanced,4-2-3-1,49,14,10,25,28.6,1.22,1.82,47.12,14.3,57.1,63.3
+arabia_saudita_pro_league_2026_2027,Fabiano José Costa Flora,F. J. C. Flora,Portugal,balanced,4-2-3-1,4,2,0,2,50.0,1.0,3.25,,25.0,25.0,50.0
+arabia_saudita_pro_league_2026_2027,Fábio Carille,F. Carille,Brazil,defensive,4-2-3-1,52,8,17,27,15.4,0.85,1.69,46.56,21.2,50.0,46.2
 arabia_saudita_pro_league_2026_2027,Fathi Al Jabal,F. A. Jabal,Tunisia,defensive,5-4-1,34,5,5,24,14.7,0.79,2.06,42.15,11.8,47.1,52.9
-arabia_saudita_pro_league_2026_2027,Giovanni Solinas,G. Solinas,Italy,balanced,4-1-4-1,8,1,3,4,12.5,1.0,1.75,48.14,25.0,62.5,50.0
+arabia_saudita_pro_league_2026_2027,Giovanni Solinas,G. Solinas,Italy,balanced,4-1-4-1,10,2,4,4,20.0,1.3,1.8,48.56,20.0,70.0,60.0
 arabia_saudita_pro_league_2026_2027,Gus Poyet,G. Poyet,Uruguay,balanced,4-4-2,34,10,7,17,29.4,1.59,1.82,51.03,11.8,64.7,67.6
-arabia_saudita_pro_league_2026_2027,Jalel Kadri,J. Kadri,Tunisia,balanced,4-3-3,42,13,12,17,31.0,1.1,1.6,45.64,14.3,59.5,54.8
-arabia_saudita_pro_league_2026_2027,Jamal Sellami,J. Sellami,Morocco,balanced,3-4-2-1,30,11,7,12,36.7,1.63,1.47,35.43,26.7,50.0,63.3
-arabia_saudita_pro_league_2026_2027,Jens Wissing,J. Wissing,Germany,balanced,4-2-3-1,71,30,19,22,42.3,1.55,1.44,54.6,23.9,56.3,54.9
+arabia_saudita_pro_league_2026_2027,Jalel Kadri,J. Kadri,Tunisia,balanced,4-3-3,44,13,12,19,29.5,1.09,1.61,45.55,13.6,59.1,54.5
+arabia_saudita_pro_league_2026_2027,Jamal Sellami,J. Sellami,Morocco,attacking,3-4-2-1,34,13,7,14,38.2,1.71,1.56,37.44,26.5,52.9,64.7
+arabia_saudita_pro_league_2026_2027,Jens Wissing,J. Wissing,Germany,balanced,4-2-3-1,73,33,18,22,45.2,1.56,1.37,54.16,26.0,54.8,54.8
 arabia_saudita_pro_league_2026_2027,Jorge Alberto Lobo Mendonça,J. A. L. Mendonça,Portugal,,,0,0,0,0,,,,,,,
 arabia_saudita_pro_league_2026_2027,Jorge Jesus,J. Jesus,Portugal,attacking,4-4-2,39,33,2,4,84.6,2.62,0.82,57.69,48.7,51.3,64.1
-arabia_saudita_pro_league_2026_2027,Jose Manuel Gomes,J. M. Gomes,Portugal,balanced,3-4-1-2,43,9,17,17,20.9,1.09,1.58,46.52,23.3,60.5,41.9
-arabia_saudita_pro_league_2026_2027,Khaled Al Atawi,K. A. Atawi,Saudi Arabia,defensive,4-2-3-1,7,0,3,4,0.0,0.57,1.57,45.14,28.6,42.9,42.9
-arabia_saudita_pro_league_2026_2027,Marino Pušić,M. Pušić,Netherlands,attacking,4-2-3-1,13,5,2,6,38.5,1.92,1.69,52.25,30.8,53.8,76.9
-arabia_saudita_pro_league_2026_2027,Matthias Jaissle,M. Jaissle,Germany,attacking,4-2-3-1,51,32,10,9,62.7,1.94,1.1,51.52,39.2,58.8,60.8
+arabia_saudita_pro_league_2026_2027,Jose Manuel Gomes,J. M. Gomes,Portugal,balanced,4-2-3-1,48,12,17,19,25.0,1.17,1.58,46.84,22.9,60.4,43.8
+arabia_saudita_pro_league_2026_2027,Khaled Al Atawi,K. A. Atawi,Saudi Arabia,defensive,4-2-3-1,8,1,3,4,12.5,0.88,1.62,45.14,25.0,50.0,50.0
+arabia_saudita_pro_league_2026_2027,Marino Pušić,M. Pušić,Netherlands,attacking,4-2-3-1,17,8,2,7,47.1,2.0,1.65,52.78,29.4,58.8,76.5
+arabia_saudita_pro_league_2026_2027,Matthias Jaissle,M. Jaissle,Germany,attacking,4-2-3-1,54,32,10,12,59.3,1.83,1.09,51.49,37.0,55.6,57.4
 arabia_saudita_pro_league_2026_2027,Mauricio Correa Dulac,M. C. Dulac,Brazil,,,0,0,0,0,,,,,,,
-arabia_saudita_pro_league_2026_2027,Maurício Dulac,M. Dulac,Brazil,balanced,4-1-4-1,42,9,12,21,21.4,1.05,1.9,41.62,16.7,59.5,50.0
+arabia_saudita_pro_league_2026_2027,Maurício Dulac,M. Dulac,Brazil,balanced,4-1-4-1,45,9,13,23,20.0,1.09,1.96,41.63,15.6,62.2,53.3
 arabia_saudita_pro_league_2026_2027,Nestor El Maestro,N. E. Maestro,England,defensive,4-1-4-1,34,3,7,24,8.8,0.94,2.24,45.06,11.8,64.7,67.6
-arabia_saudita_pro_league_2026_2027,Pedro Emanuel,P. Emanuel,Portugal,balanced,4-2-3-1,63,22,19,22,34.9,1.25,1.25,47.82,30.2,49.2,47.6
+arabia_saudita_pro_league_2026_2027,Pedro Emanuel,P. Emanuel,Portugal,balanced,4-2-3-1,72,25,22,25,34.7,1.22,1.22,47.87,30.6,47.2,45.8
 arabia_saudita_pro_league_2026_2027,Pericles Chamusca,P. Chamusca,Brazil,attacking,4-3-3,34,15,8,11,44.1,1.74,1.35,52.09,17.6,64.7,52.9
-arabia_saudita_pro_league_2026_2027,Reda Hakam,R. Hakam,Morocco,defensive,,3,0,1,2,0.0,0.67,2.0,,0.0,66.7,33.3
+arabia_saudita_pro_league_2026_2027,Reda Hakam,R. Hakam,Morocco,defensive,4-1-4-1,6,0,1,5,0.0,0.67,2.0,,0.0,66.7,50.0
 arabia_saudita_pro_league_2026_2027,Saad Ali Al Shehri,S. A. A. Shehri,Saudi Arabia,balanced,4-2-3-1,34,14,8,12,41.2,1.5,1.62,48.94,26.5,55.9,58.8
 arabia_saudita_pro_league_2026_2027,Sérgio Conceição,S. Conceição,Portugal,balanced,4-2-3-1,34,16,7,11,47.1,1.62,1.41,58.03,26.5,58.8,50.0
-arabia_saudita_pro_league_2026_2027,Simone Inzaghi,S. Inzaghi,Italy,attacking,4-3-3,46,34,10,2,73.9,2.57,0.87,58.69,45.7,50.0,60.9
-arabia_saudita_pro_league_2026_2027,Slavche Vojneski,S. Vojneski,North Macedonia,,,0,0,0,0,,,,,,,
+arabia_saudita_pro_league_2026_2027,Simone Inzaghi,S. Inzaghi,Italy,attacking,4-3-3,51,38,11,2,74.5,2.55,0.86,58.79,47.1,49.0,58.8
+arabia_saudita_pro_league_2026_2027,Slavche Vojneski,S. Vojneski,North Macedonia,balanced,4-3-1-2,3,0,1,2,0.0,1.0,2.0,,0.0,100.0,66.7
 arabia_saudita_pro_league_2026_2027,Thierry Oleksiak,T. Oleksiak,France,balanced,4-4-2,34,12,9,13,35.3,1.26,1.41,52.68,17.6,64.7,52.9
-arabia_saudita_pro_league_2026_2027,Thomas Letsch,T. Letsch,Germany,balanced,4-4-2,12,4,5,3,33.3,1.33,1.0,49.0,50.0,41.7,50.0
-arabia_saudita_pro_league_2026_2027,Vuk Rašović,V. Rašović,Serbia,,,0,0,0,0,,,,,,,
+arabia_saudita_pro_league_2026_2027,Thomas Letsch,T. Letsch,Germany,balanced,4-4-2,16,6,6,4,37.5,1.56,1.12,49.0,43.8,50.0,56.2
+arabia_saudita_pro_league_2026_2027,Vuk Rašović,V. Rašović,Serbia,balanced,4-2-3-1,6,1,3,2,16.7,1.5,2.0,54.5,0.0,83.3,66.7
 arabia_saudita_pro_league_2026_2027,Žarko Lazetić,Z. Lazetić,Serbia,defensive,4-1-4-1,7,0,3,4,0.0,0.43,1.71,56.0,42.9,28.6,42.9
