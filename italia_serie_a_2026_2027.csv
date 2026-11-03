@@ -1,33 +1,33 @@
 ﻿league,name,short_name,country,tactical_profile,preferred_formation,matches_total,wins,draws,losses,win_pct,avg_goals_scored,avg_goals_conceded,avg_possession,clean_sheet_pct,btts_pct,over_25_pct
-italia_serie_a_2026_2027,Alberto Aquilani,A. Aquilani,Italy,attacking,4-3-3,22,7,6,9,31.8,2.23,1.45,48.27,22.7,59.1,50.0
-italia_serie_a_2026_2027,Alberto Gilardino,A. Gilardino,Italy,defensive,3-5-2,15,3,5,7,20.0,0.87,1.4,46.67,26.7,40.0,40.0
+italia_serie_a_2026_2027,Alberto Aquilani,A. Aquilani,Italy,attacking,4-3-3,28,10,6,12,35.7,2.36,1.75,48.54,21.4,64.3,57.1
+italia_serie_a_2026_2027,Alberto Gilardino,A. Gilardino,Italy,defensive,3-5-2,21,5,9,7,23.8,0.9,1.1,44.73,42.9,33.3,38.1
 italia_serie_a_2026_2027,Antonio Conte,A. Conte,Italy,balanced,3-4-2-1,48,25,11,12,52.1,1.44,1.1,57.5,35.4,50.0,47.9
 italia_serie_a_2026_2027,Carlos Cuesta,C. Cuesta,Spain,defensive,3-5-2,45,12,14,19,26.7,0.78,1.27,43.51,28.9,44.4,33.3
-italia_serie_a_2026_2027,Cesc Fàbregas,C. Fàbregas,Spain,attacking,4-2-3-1,65,34,19,12,52.3,1.74,0.88,60.21,40.0,50.8,47.7
-italia_serie_a_2026_2027,Cristian Chivu,C. Chivu,Romania,attacking,3-5-2,78,52,12,14,66.7,2.17,1.09,57.69,41.0,52.6,59.0
-italia_serie_a_2026_2027,Daniele De Rossi,D. De Rossi,Italy,balanced,3-4-2-1,62,19,14,29,30.6,1.16,1.53,48.38,21.0,53.2,54.8
-italia_serie_a_2026_2027,Davide Nicola,D. Nicola,Italy,attacking,3-5-2,40,25,8,7,62.5,2.08,0.97,61.56,40.0,52.5,60.0
+italia_serie_a_2026_2027,Cesc Fàbregas,C. Fàbregas,Spain,attacking,4-2-3-1,72,39,20,13,54.2,1.75,0.86,60.51,40.3,51.4,48.6
+italia_serie_a_2026_2027,Cristian Chivu,C. Chivu,Romania,attacking,3-5-2,89,57,15,17,64.0,2.09,1.12,57.78,38.2,53.9,59.6
+italia_serie_a_2026_2027,Daniele De Rossi,D. De Rossi,Italy,balanced,3-4-2-1,68,22,15,31,32.4,1.13,1.46,48.16,23.5,50.0,51.5
+italia_serie_a_2026_2027,Davide Nicola,D. Nicola,Italy,attacking,3-5-2,47,26,11,10,55.3,1.85,0.98,59.69,38.3,48.9,53.2
 italia_serie_a_2026_2027,Domenico Tedesco,D. Tedesco,Italy,defensive,4-2-3-1,4,0,1,3,0.0,0.5,1.25,55.25,0.0,25.0,25.0
-italia_serie_a_2026_2027,Eusebio Di Francesco,E. D. Francesco,Italy,defensive,4-3-3,60,19,12,29,31.7,0.87,1.28,41.73,30.0,33.3,36.7
+italia_serie_a_2026_2027,Eusebio Di Francesco,E. D. Francesco,Italy,defensive,4-3-3,66,19,13,34,28.8,0.85,1.38,41.91,27.3,36.4,39.4
 italia_serie_a_2026_2027,Fabio Grosso,F. Grosso,Italy,balanced,4-3-3,57,23,8,26,40.4,1.3,1.42,46.89,21.1,50.9,64.9
-italia_serie_a_2026_2027,Fabio Pisacane,F. Pisacane,Italy,balanced,3-5-2,60,20,16,24,33.3,1.07,1.27,45.84,28.3,46.7,45.0
-italia_serie_a_2026_2027,Gennaro Gattuso,G. Gattuso,Italy,attacking,4-3-3,22,15,5,2,68.2,2.27,1.0,54.15,36.4,54.5,63.6
-italia_serie_a_2026_2027,Gian Piero Gasperini,G. P. Gasperini,Italy,attacking,3-4-2-1,70,39,12,19,55.7,1.76,1.03,55.83,42.9,44.3,48.6
+italia_serie_a_2026_2027,Fabio Pisacane,F. Pisacane,Italy,balanced,3-5-2,67,21,17,29,31.3,1.07,1.31,45.37,28.4,47.8,47.8
+italia_serie_a_2026_2027,Gennaro Gattuso,G. Gattuso,Italy,attacking,4-3-3,31,20,7,4,64.5,2.13,1.13,55.73,32.3,54.8,58.1
+italia_serie_a_2026_2027,Gian Piero Gasperini,G. P. Gasperini,Italy,attacking,3-4-2-1,77,44,14,19,57.1,1.78,1.01,55.88,42.9,45.5,46.8
 italia_serie_a_2026_2027,Giovanni Stroppa,G. Stroppa,Italy,balanced,3-5-2,19,5,4,10,26.3,1.53,1.84,61.76,21.1,57.9,63.2
-italia_serie_a_2026_2027,Ignazio Abate,I. Abate,Italy,balanced,3-4-2-1,22,10,3,9,45.5,1.59,1.05,53.62,27.3,40.9,36.4
-italia_serie_a_2026_2027,Ivan Jurić,I. Jurić,Croatia,balanced,3-4-2-1,64,31,14,19,48.4,1.61,1.28,50.57,32.8,54.7,56.2
-italia_serie_a_2026_2027,Kosta Runjaic,K. Runjaic,Germany,balanced,3-4-2-1,63,22,12,29,34.9,1.16,1.38,46.41,25.4,47.6,46.0
-italia_serie_a_2026_2027,Luciano Spalletti,L. Spalletti,Italy,balanced,3-4-2-1,74,38,22,14,51.4,1.62,0.97,55.6,44.6,43.2,37.8
-italia_serie_a_2026_2027,Marco Baroni,M. Baroni,Italy,attacking,4-2-3-1,22,9,7,6,40.9,1.86,1.23,54.38,13.6,72.7,59.1
+italia_serie_a_2026_2027,Ignazio Abate,I. Abate,Italy,balanced,3-4-2-1,29,12,5,12,41.4,1.41,1.07,52.22,27.6,41.4,31.0
+italia_serie_a_2026_2027,Ivan Jurić,I. Jurić,Croatia,balanced,3-4-2-1,70,31,14,25,44.3,1.51,1.37,50.08,30.0,54.3,57.1
+italia_serie_a_2026_2027,Kosta Runjaic,K. Runjaic,Germany,balanced,3-4-2-1,69,22,13,34,31.9,1.1,1.46,46.6,24.6,46.4,46.4
+italia_serie_a_2026_2027,Luciano Spalletti,L. Spalletti,Italy,balanced,3-4-2-1,81,41,23,17,50.6,1.56,0.99,55.61,43.2,42.0,37.0
+italia_serie_a_2026_2027,Marco Baroni,M. Baroni,Italy,balanced,3-5-2,28,11,10,7,39.3,1.64,1.04,53.33,25.0,60.7,50.0
 italia_serie_a_2026_2027,Marco Giampaolo,M. Giampaolo,Italy,defensive,4-4-2,39,9,10,20,23.1,0.87,1.46,46.62,30.8,41.0,43.6
-italia_serie_a_2026_2027,Massimiliano Allegri,M. Allegri,Italy,balanced,3-5-2,61,31,15,15,50.8,1.52,1.02,52.02,39.3,47.5,45.9
-italia_serie_a_2026_2027,Massimiliano Alvini,M. Alvini,Italy,attacking,4-2-3-1,60,33,18,9,55.0,1.83,1.05,48.43,35.0,55.0,55.0
-italia_serie_a_2026_2027,Matteo Andreoletti,M. Andreoletti,Italy,balanced,3-5-2,55,14,18,23,25.5,1.18,1.4,47.19,18.2,61.8,45.5
-italia_serie_a_2026_2027,Maurizio Sarri,M. Sarri,Italy,balanced,4-3-3,65,27,18,20,41.5,1.32,1.17,49.26,33.8,43.1,43.1
+italia_serie_a_2026_2027,Massimiliano Allegri,M. Allegri,Italy,balanced,3-5-2,68,35,17,16,51.5,1.53,0.99,52.23,39.7,47.1,45.6
+italia_serie_a_2026_2027,Massimiliano Alvini,M. Alvini,Italy,attacking,4-2-3-1,66,36,21,9,54.5,1.89,1.05,48.62,34.8,56.1,56.1
+italia_serie_a_2026_2027,Matteo Andreoletti,M. Andreoletti,Italy,balanced,3-5-2,64,14,22,28,21.9,1.12,1.45,47.23,17.2,60.9,48.4
+italia_serie_a_2026_2027,Maurizio Sarri,M. Sarri,Italy,balanced,4-2-3-1,72,29,19,24,40.3,1.26,1.18,49.62,33.3,40.3,41.7
 italia_serie_a_2026_2027,Oscar Hiljemark,O. Hiljemark,Sweden,defensive,3-5-2,39,2,12,25,5.1,0.67,1.85,40.41,12.8,41.0,51.3
-italia_serie_a_2026_2027,Paolo Sammarco,P. Sammarco,Italy,defensive,3-5-2,91,22,30,39,24.2,0.93,1.29,43.65,28.6,49.5,44.0
-italia_serie_a_2026_2027,Paolo Vanoli,P. Vanoli,Italy,balanced,4-3-3,58,18,18,22,31.0,1.41,1.4,50.2,22.4,65.5,58.6
-italia_serie_a_2026_2027,Raffaele Palladino,R. Palladino,Italy,balanced,4-3-3,70,27,21,22,38.6,1.37,1.26,52.44,31.4,54.3,47.1
+italia_serie_a_2026_2027,Paolo Sammarco,P. Sammarco,Italy,defensive,3-5-2,99,22,35,42,22.2,0.93,1.32,43.79,27.3,50.5,43.4
+italia_serie_a_2026_2027,Paolo Vanoli,P. Vanoli,Italy,balanced,4-3-3,67,23,22,22,34.3,1.49,1.36,50.04,23.9,65.7,61.2
+italia_serie_a_2026_2027,Raffaele Palladino,R. Palladino,Italy,balanced,3-4-2-1,79,34,22,23,43.0,1.46,1.2,52.25,32.9,53.2,48.1
 italia_serie_a_2026_2027,Roberto D'Aversa,R. D'Aversa,Italy,balanced,3-5-2,41,14,9,18,34.1,1.2,1.63,44.05,31.7,51.2,63.4
-italia_serie_a_2026_2027,Rúben Amorim,R. Amorim,Portugal,attacking,3-4-2-1,22,12,5,5,54.5,1.77,1.18,56.12,31.8,50.0,54.5
-italia_serie_a_2026_2027,Vincenzo Italiano,V. Italiano,Italy,balanced,4-1-4-1,88,45,18,25,51.1,1.55,1.12,56.4,31.8,50.0,48.9
+italia_serie_a_2026_2027,Rúben Amorim,R. Amorim,Portugal,attacking,3-4-2-1,31,16,7,8,51.6,1.84,1.23,55.94,29.0,54.8,61.3
+italia_serie_a_2026_2027,Vincenzo Italiano,V. Italiano,Italy,balanced,4-1-4-1,95,47,21,27,49.5,1.55,1.14,56.42,29.5,51.6,48.4

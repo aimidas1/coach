@@ -1,44 +1,44 @@
 ﻿league,name,short_name,country,tactical_profile,preferred_formation,matches_total,wins,draws,losses,win_pct,avg_goals_scored,avg_goals_conceded,avg_possession,clean_sheet_pct,btts_pct,over_25_pct
-eredivisie_2026_2027,Adrie Koster,A. Koster,Netherlands,,,0,0,0,0,,,,,,,
-eredivisie_2026_2027,Anoush Dastgir,A. Dastgir,Afghanistan,balanced,4-2-3-1,10,3,3,4,30.0,1.6,1.9,43.0,10.0,70.0,70.0
+eredivisie_2026_2027,Adrie Koster,A. Koster,Netherlands,balanced,5-3-2,9,2,1,6,22.2,1.0,2.11,47.33,11.1,66.7,66.7
+eredivisie_2026_2027,Anoush Dastgir,A. Dastgir,Afghanistan,attacking,4-2-3-1,27,12,5,10,44.4,1.78,1.52,44.5,25.9,59.3,70.4
 eredivisie_2026_2027,Anthony Correia,A. Correia,Netherlands,defensive,4-2-3-1,5,1,0,4,20.0,0.4,1.0,59.0,20.0,20.0,20.0
-eredivisie_2026_2027,Anthony Correia,A. Correia,Netherlands,balanced,3-4-2-1,51,13,14,24,25.5,1.35,1.76,45.56,11.8,64.7,58.8
-eredivisie_2026_2027,Bart Schreuder,B. Schreuder,Netherlands,defensive,4-2-3-1,9,4,3,2,44.4,1.44,0.78,55.0,44.4,55.6,44.4
-eredivisie_2026_2027,Carl Hoefkens,C. Hoefkens,Belgium,balanced,4-2-3-1,34,6,11,17,17.6,1.03,1.71,49.0,17.6,47.1,50.0
-eredivisie_2026_2027,Danny Buijs,D. Buijs,Netherlands,balanced,4-2-3-1,55,22,11,22,40.0,1.44,1.71,42.4,16.4,72.7,63.6
-eredivisie_2026_2027,Dennis van der Ree,D. v. d. Ree,Netherlands,attacking,4-2-3-1,8,3,2,3,37.5,1.75,1.62,31.25,0.0,75.0,62.5
+eredivisie_2026_2027,Anthony Correia,A. Correia,Netherlands,balanced,3-4-2-1,57,17,15,25,29.8,1.51,1.7,45.98,15.8,63.2,61.4
+eredivisie_2026_2027,Bart Schreuder,B. Schreuder,Netherlands,balanced,4-2-3-1,22,9,6,7,40.9,1.64,1.27,48.57,27.3,63.6,54.5
+eredivisie_2026_2027,Carl Hoefkens,C. Hoefkens,Belgium,balanced,4-2-3-1,35,6,11,18,17.1,1.0,1.71,49.49,17.1,45.7,48.6
+eredivisie_2026_2027,Danny Buijs,D. Buijs,Netherlands,balanced,4-2-3-1,60,22,13,25,36.7,1.35,1.7,42.16,15.0,70.0,60.0
+eredivisie_2026_2027,Dennis van der Ree,D. v. d. Ree,Netherlands,balanced,4-2-3-1,14,5,5,4,35.7,1.5,1.5,31.8,14.3,64.3,50.0
 eredivisie_2026_2027,Dennis Van der Ree,D. V. d. Ree,,,,0,0,0,0,,,,,,,
-eredivisie_2026_2027,Dick Lukkien,D. Lukkien,Netherlands,balanced,4-2-3-1,56,21,11,24,37.5,1.55,1.61,50.06,23.2,58.9,64.3
-eredivisie_2026_2027,Dick Schreuder,D. Schreuder,Netherlands,attacking,3-4-2-1,64,25,20,19,39.1,2.02,1.61,55.74,14.1,76.6,73.4
+eredivisie_2026_2027,Dick Lukkien,D. Lukkien,Netherlands,balanced,4-2-3-1,63,23,12,28,36.5,1.56,1.67,50.25,22.2,61.9,65.1
+eredivisie_2026_2027,Dick Schreuder,D. Schreuder,Netherlands,attacking,3-4-2-1,68,26,21,21,38.2,1.97,1.62,55.83,13.2,75.0,72.1
 eredivisie_2026_2027,Ernest Faber,E. Faber,Netherlands,balanced,4-2-3-1,34,5,4,25,14.7,1.03,2.5,44.71,5.9,50.0,70.6
-eredivisie_2026_2027,Giovanni van Bronckhorst,G. v. Bronckhorst,Netherlands,attacking,4-3-3,22,15,3,4,68.2,2.73,1.32,52.06,27.3,63.6,72.7
-eredivisie_2026_2027,Henk Brugge,H. Brugge,Netherlands,balanced,3-4-2-1,20,6,5,9,30.0,1.5,1.7,46.75,20.0,60.0,65.0
+eredivisie_2026_2027,Giovanni van Bronckhorst,G. v. Bronckhorst,Netherlands,attacking,4-3-3,29,21,4,4,72.4,2.79,1.21,53.0,31.0,62.1,69.0
+eredivisie_2026_2027,Henk Brugge,H. Brugge,Netherlands,balanced,3-4-2-1,21,7,5,9,33.3,1.62,1.71,45.85,19.0,61.9,66.7
 eredivisie_2026_2027,Henry van der Vegt,H. v. d. Vegt,Netherlands,balanced,4-2-3-1,44,12,11,21,27.3,1.23,2.11,44.17,18.2,61.4,61.4
 eredivisie_2026_2027,Jeroen Rijsdijk,J. Rijsdijk,Netherlands,attacking,4-2-3-1,6,3,1,2,50.0,1.83,1.33,50.33,16.7,50.0,66.7
-eredivisie_2026_2027,Johan Plat,J. Plat,Netherlands,balanced,4-2-3-1,17,5,4,8,29.4,1.59,1.76,47.7,17.6,70.6,64.7
+eredivisie_2026_2027,Johan Plat,J. Plat,Netherlands,attacking,4-3-3,18,6,4,8,33.3,1.72,1.67,48.0,22.2,66.7,66.7
 eredivisie_2026_2027,Johan Plat,J. Plat,Netherlands,balanced,4-3-3,6,2,0,4,33.3,1.0,2.0,47.0,16.7,50.0,66.7
-eredivisie_2026_2027,John Stegeman,J. Stegeman,Netherlands,balanced,4-2-3-1,29,8,7,14,27.6,1.55,1.76,41.88,17.2,72.4,65.5
-eredivisie_2026_2027,John van den Brom,J. v. d. Brom,Netherlands,attacking,4-2-3-1,65,32,18,15,49.2,1.95,1.2,56.24,27.7,60.0,55.4
-eredivisie_2026_2027,Joseph Oosting,J. Oosting,Netherlands,attacking,4-2-3-1,22,9,7,6,40.9,2.86,1.77,54.18,22.7,68.2,72.7
+eredivisie_2026_2027,John Stegeman,J. Stegeman,Netherlands,balanced,4-2-3-1,24,5,6,13,20.8,1.17,1.92,41.47,12.5,75.0,62.5
+eredivisie_2026_2027,John van den Brom,J. v. d. Brom,Netherlands,attacking,4-2-3-1,71,33,20,18,46.5,2.0,1.28,56.69,26.8,62.0,56.3
+eredivisie_2026_2027,Joseph Oosting,J. Oosting,Netherlands,attacking,4-2-3-1,27,10,9,8,37.0,2.56,1.81,53.75,22.2,66.7,70.4
 eredivisie_2026_2027,Jurgen Streppel,J. Streppel,Netherlands,,,0,0,0,0,,,,,,,
 eredivisie_2026_2027,Kevin Van Dessel,K. V. Dessel,Belgium,,,0,0,0,0,,,,,,,
-eredivisie_2026_2027,Leeroy Echteld,L. Echteld,Netherlands,attacking,4-2-3-1,76,41,17,18,53.9,1.99,1.28,54.52,34.2,53.9,64.5
-eredivisie_2026_2027,Marinus Dijkhuizen,M. Dijkhuizen,Netherlands,attacking,4-2-3-1,4,0,1,3,0.0,2.0,3.25,62.0,0.0,100.0,100.0
+eredivisie_2026_2027,Leeroy Echteld,L. Echteld,Netherlands,attacking,4-2-3-1,83,41,21,21,49.4,1.92,1.3,54.48,31.3,54.2,62.7
+eredivisie_2026_2027,Marinus Dijkhuizen,M. Dijkhuizen,Netherlands,attacking,4-2-3-1,22,12,3,7,54.5,2.41,1.86,49.4,18.2,77.3,86.4
 eredivisie_2026_2027,Maurice Steijn,M. Steijn,Netherlands,balanced,4-2-3-1,34,12,7,15,35.3,1.18,1.82,47.09,32.4,44.1,52.9
 eredivisie_2026_2027,Melvin Boel,M. Boel,Netherlands,balanced,4-2-3-1,42,10,15,17,23.8,1.43,1.6,49.21,23.8,57.1,61.9
-eredivisie_2026_2027,Michel,Michel,Spain,balanced,4-3-3,68,27,22,19,39.7,1.66,1.38,54.94,19.1,66.2,57.4
-eredivisie_2026_2027,Oscar Garcia,O. Garcia,Spain,balanced,4-3-3,72,30,22,20,41.7,1.62,1.36,50.2,26.4,58.3,55.6
-eredivisie_2026_2027,Paul Nuijten,P. Nuijten,Netherlands,balanced,4-3-3,10,4,2,4,40.0,1.5,1.7,40.0,30.0,40.0,60.0
-eredivisie_2026_2027,Peter Bosz,P. Bosz,Netherlands,attacking,4-2-3-1,64,42,10,12,65.6,2.73,1.41,59.12,15.6,79.7,79.7
-eredivisie_2026_2027,Rick Kruys,R. Kruys,Netherlands,balanced,4-2-3-1,46,12,9,25,26.1,1.04,1.65,46.33,6.5,60.9,60.9
-eredivisie_2026_2027,Robin Peter,R. Peter,Germany,attacking,4-4-2,17,5,4,8,29.4,1.82,1.71,48.67,17.6,58.8,64.7
+eredivisie_2026_2027,Michel,Michel,Spain,balanced,4-3-3,74,31,23,20,41.9,1.66,1.38,54.83,20.3,64.9,58.1
+eredivisie_2026_2027,Oscar Garcia,O. Garcia,Spain,balanced,4-3-3,79,34,23,22,43.0,1.67,1.35,50.2,29.1,57.0,57.0
+eredivisie_2026_2027,Paul Nuijten,P. Nuijten,Netherlands,balanced,4-2-3-1,23,7,4,12,30.4,1.43,2.22,52.43,17.4,56.5,69.6
+eredivisie_2026_2027,Peter Bosz,P. Bosz,Netherlands,attacking,4-2-3-1,70,47,10,13,67.1,2.8,1.34,59.3,18.6,75.7,80.0
+eredivisie_2026_2027,Rick Kruys,R. Kruys,Netherlands,balanced,4-2-3-1,62,19,15,28,30.6,1.24,1.61,48.67,9.7,66.1,59.7
+eredivisie_2026_2027,Robin Peter,R. Peter,Germany,attacking,4-4-2,18,5,4,9,27.8,1.72,1.67,50.0,16.7,55.6,61.1
 eredivisie_2026_2027,Robin van Persie,R. v. Persie,Netherlands,attacking,4-2-3-1,44,22,8,14,50.0,1.93,1.48,52.3,25.0,61.4,61.4
-eredivisie_2026_2027,Robin Veldman,R. Veldman,Netherlands,attacking,4-2-3-1,54,23,13,18,42.6,1.83,1.61,51.57,20.4,61.1,68.5
+eredivisie_2026_2027,Robin Veldman,R. Veldman,Netherlands,attacking,4-2-3-1,59,25,14,20,42.4,1.8,1.61,51.57,18.6,62.7,67.8
 eredivisie_2026_2027,Robin Veldman,R. Veldman,Netherlands,attacking,4-2-1-3,4,3,1,0,75.0,4.25,2.5,56.0,0.0,100.0,100.0
-eredivisie_2026_2027,Rogier Meijer,R. Meijer,Netherlands,attacking,4-2-3-1,23,7,7,9,30.4,1.96,1.65,45.73,26.1,60.9,69.6
+eredivisie_2026_2027,Rogier Meijer,R. Meijer,Netherlands,attacking,4-2-3-1,28,11,8,9,39.3,2.04,1.5,45.33,28.6,60.7,67.9
 eredivisie_2026_2027,Ron Jans,R. Jans,Netherlands,balanced,4-2-3-1,50,21,11,18,42.0,1.56,1.28,46.11,22.0,60.0,50.0
-eredivisie_2026_2027,Ruben den Uil,R. d. Uil,Netherlands,balanced,4-3-3,49,18,10,21,36.7,1.57,1.67,46.87,18.4,65.3,69.4
-eredivisie_2026_2027,Sander Duits,S. Duits,Netherlands,balanced,4-4-2,16,4,7,5,25.0,1.38,1.56,51.38,12.5,68.8,43.8
-eredivisie_2026_2027,Thomas Duivenvoorden,T. Duivenvoorden,Netherlands,balanced,4-2-3-1,8,2,1,5,25.0,1.62,3.12,50.0,12.5,75.0,75.0
+eredivisie_2026_2027,Ruben den Uil,R. d. Uil,Netherlands,balanced,4-3-3,50,18,10,22,36.0,1.54,1.82,46.28,18.0,64.0,70.0
+eredivisie_2026_2027,Sander Duits,S. Duits,Netherlands,balanced,4-2-3-1,33,7,14,12,21.2,1.33,1.64,50.53,12.1,63.6,48.5
+eredivisie_2026_2027,Thomas Duivenvoorden,T. Duivenvoorden,Netherlands,balanced,4-2-3-1,21,6,4,11,28.6,1.43,2.48,53.71,9.5,81.0,76.2
 eredivisie_2026_2027,Ulrich Landvreugd,U. Landvreugd,Netherlands,,,0,0,0,0,,,,,,,
-eredivisie_2026_2027,Vincent Heilmann,V. Heilmann,Netherlands,balanced,4-2-3-1,6,2,0,4,33.3,1.67,2.83,,0.0,100.0,100.0
+eredivisie_2026_2027,Vincent Heilmann,V. Heilmann,Netherlands,attacking,4-2-3-1,24,14,4,6,58.3,2.25,1.54,55.38,25.0,70.8,70.8
