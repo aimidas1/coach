@@ -1,36 +1,36 @@
 ﻿league,name,short_name,country,tactical_profile,preferred_formation,matches_total,wins,draws,losses,win_pct,avg_goals_scored,avg_goals_conceded,avg_possession,clean_sheet_pct,btts_pct,over_25_pct
-brasileirao_serie_a_2026,Abel Ferreira,A. Ferreira,Portugal,attacking,3-4-2-1,107,66,22,19,61.7,1.77,0.78,52.72,44.9,45.8,49.5
-brasileirao_serie_a_2026,Artur Jorge,A. Jorge,Portugal,balanced,4-2-3-1,101,49,28,24,48.5,1.44,0.99,51.57,39.6,51.5,49.5
-brasileirao_serie_a_2026,Clarence Seedorf,C. Seedorf,Netherlands,defensive,4-2-3-1,18,10,4,4,55.6,1.11,0.72,62.29,50.0,38.9,16.7
+brasileirao_serie_a_2026,Abel Ferreira,A. Ferreira,Portugal,attacking,3-4-2-1,109,67,22,20,61.5,1.8,0.79,52.68,44.0,46.8,50.5
+brasileirao_serie_a_2026,Artur Jorge,A. Jorge,Portugal,balanced,4-2-3-1,102,50,28,24,49.0,1.45,1.0,51.49,39.2,52.0,50.0
+brasileirao_serie_a_2026,Clarence Seedorf,C. Seedorf,Netherlands,balanced,4-2-3-1,23,12,6,5,52.2,1.13,0.83,60.12,47.8,39.1,21.7
 brasileirao_serie_a_2026,Cleber dos Santos,C. d. Santos,Brazil,,,0,0,0,0,,,,,,,
-brasileirao_serie_a_2026,Cuca,Cuca,Brazil,balanced,4-2-3-1,92,32,32,28,34.8,1.34,1.25,51.35,29.3,55.4,52.2
-brasileirao_serie_a_2026,Dorival Júnior,D. Júnior,Brazil,balanced,3-4-2-1,97,38,25,34,39.2,1.15,1.09,53.01,29.9,47.4,37.1
-brasileirao_serie_a_2026,Eduardo Baptista,E. Baptista,Brazil,balanced,3-4-2-1,67,30,18,19,44.8,1.18,0.96,49.71,41.8,44.8,32.8
-brasileirao_serie_a_2026,Eduardo Dominguez,E. Dominguez,Argentina,balanced,4-2-3-1,111,44,31,36,39.6,1.27,1.11,52.34,31.5,44.1,43.2
-brasileirao_serie_a_2026,Fábio Matias,F. Matias,Brazil,balanced,4-1-4-1,81,31,19,31,38.3,1.23,1.19,49.44,30.9,46.9,42.0
+brasileirao_serie_a_2026,Cuca,Cuca,Brazil,balanced,4-2-3-1,93,32,32,29,34.4,1.33,1.26,51.46,29.0,55.9,52.7
+brasileirao_serie_a_2026,Dorival Júnior,D. Júnior,Brazil,balanced,3-4-2-1,98,38,26,34,38.8,1.14,1.08,53.04,30.6,46.9,36.7
+brasileirao_serie_a_2026,Eduardo Baptista,E. Baptista,Brazil,balanced,3-4-2-1,68,31,18,19,45.6,1.18,0.94,49.98,42.6,44.1,32.4
+brasileirao_serie_a_2026,Eduardo Dominguez,E. Dominguez,Argentina,balanced,4-2-3-1,115,46,32,37,40.0,1.29,1.1,52.75,31.3,44.3,42.6
+brasileirao_serie_a_2026,Fábio Matias,F. Matias,Brazil,balanced,4-1-4-1,83,32,19,32,38.6,1.25,1.18,49.94,31.3,47.0,43.4
 brasileirao_serie_a_2026,Fernando Diniz,F. Diniz,Brazil,balanced,4-2-3-1,83,28,24,31,33.7,1.07,1.08,55.1,36.1,49.4,38.6
-brasileirao_serie_a_2026,Fernando Seabra,F. Seabra,Brazil,balanced,4-2-3-1,72,29,21,22,40.3,1.07,1.04,43.72,38.9,37.5,36.1
-brasileirao_serie_a_2026,Franclim Carvalho,F. Carvalho,Portugal,balanced,4-2-3-1,89,41,26,22,46.1,1.62,1.12,52.0,31.5,50.6,49.4
-brasileirao_serie_a_2026,Guilherme Dalzotto Bossle,G. D. Bossle,Brazil,,,0,0,0,0,,,,,,,
-brasileirao_serie_a_2026,Jair Ventura,J. Ventura,Brazil,defensive,4-2-3-1,83,24,23,36,28.9,0.96,1.34,43.25,32.5,39.8,36.1
+brasileirao_serie_a_2026,Fernando Seabra,F. Seabra,Brazil,balanced,4-2-3-1,71,29,21,21,40.8,1.08,1.03,43.49,39.4,38.0,36.6
+brasileirao_serie_a_2026,Franclim Carvalho,F. Carvalho,Portugal,balanced,4-2-3-1,100,48,28,24,48.0,1.56,1.04,52.32,36.0,47.0,47.0
+brasileirao_serie_a_2026,Guilherme Dalzotto Bossle,G. D. Bossle,Brazil,balanced,4-2-3-1,4,1,1,2,25.0,1.0,1.25,46.33,25.0,25.0,25.0
+brasileirao_serie_a_2026,Jair Ventura,J. Ventura,Brazil,defensive,4-2-3-1,85,25,23,37,29.4,0.95,1.33,43.25,32.9,38.8,35.3
 brasileirao_serie_a_2026,Léo Condé,L. Condé,Brazil,balanced,4-2-3-1,43,13,12,18,30.2,1.35,1.49,44.59,11.6,65.1,53.5
-brasileirao_serie_a_2026,Leonardo Jardim,L. Jardim,Portugal,attacking,4-2-3-1,105,66,26,13,62.9,1.85,0.72,59.19,47.6,44.8,47.6
+brasileirao_serie_a_2026,Leonardo Jardim,L. Jardim,Portugal,attacking,4-2-3-1,106,67,26,13,63.2,1.86,0.73,59.13,47.2,45.3,48.1
 brasileirao_serie_a_2026,Luís Castro,L. Castro,Portugal,balanced,4-1-4-1,72,23,19,30,31.9,1.18,1.28,48.72,22.2,52.8,41.7
 brasileirao_serie_a_2026,Luis Zubeldia,L. Zubeldia,Argentina,balanced,4-2-3-1,69,31,19,19,44.9,1.3,1.06,56.22,33.3,52.2,42.0
 brasileirao_serie_a_2026,Luiz Felipe Scolari,L. F. Scolari,Brazil,balanced,4-2-3-1,5,3,1,1,60.0,1.6,0.6,54.4,80.0,20.0,40.0
-brasileirao_serie_a_2026,Marcão,Marcão,Brazil,balanced,4-2-3-1,38,21,6,11,55.3,1.68,0.95,57.05,36.8,52.6,47.4
+brasileirao_serie_a_2026,Marcão,Marcão,Brazil,attacking,4-2-3-1,41,24,6,11,58.5,1.88,0.9,56.95,39.0,51.2,51.2
 brasileirao_serie_a_2026,Márcio Goiano,M. Goiano,Brazil,defensive,4-2-3-1,53,8,18,27,15.1,0.87,1.62,48.53,22.6,50.9,47.2
-brasileirao_serie_a_2026,Mauricio Barbieri,M. Barbieri,Brazil,balanced,3-4-3,81,30,21,30,37.0,1.16,1.21,46.4,40.7,35.8,42.0
-brasileirao_serie_a_2026,Mozart Santos,M. Santos,Brazil,balanced,4-2-3-1,111,41,30,40,36.9,1.04,1.02,47.27,31.5,45.0,36.0
-brasileirao_serie_a_2026,Odair Hellmann,O. Hellmann,Brazil,balanced,3-4-2-1,83,37,20,26,44.6,1.31,1.14,49.16,31.3,51.8,45.8
+brasileirao_serie_a_2026,Mauricio Barbieri,M. Barbieri,Brazil,balanced,3-4-3,83,31,21,31,37.3,1.16,1.2,46.41,39.8,36.1,42.2
+brasileirao_serie_a_2026,Mozart Santos,M. Santos,Brazil,balanced,4-2-3-1,113,43,30,40,38.1,1.04,1.01,47.53,31.9,45.1,36.3
+brasileirao_serie_a_2026,Odair Hellmann,O. Hellmann,Brazil,balanced,3-4-2-1,86,39,20,27,45.3,1.34,1.15,49.2,31.4,52.3,46.5
 brasileirao_serie_a_2026,Paulo Pezzolano,P. Pezzolano,Uruguay,balanced,4-2-3-1,68,18,21,29,26.5,1.13,1.43,50.01,19.1,58.8,44.1
-brasileirao_serie_a_2026,Pedro Emanuel,P. Emanuel,Portugal,balanced,4-2-3-1,81,27,25,29,33.3,1.22,1.31,48.31,29.6,49.4,46.9
-brasileirao_serie_a_2026,Rafael Guanaes,R. Guanaes,Brazil,balanced,4-2-3-1,84,33,27,24,39.3,1.38,1.13,50.19,22.6,57.1,42.9
-brasileirao_serie_a_2026,Rafael Lacerda,R. Lacerda,Brazil,balanced,4-2-3-1,59,23,13,23,39.0,1.22,1.24,43.39,25.4,49.2,45.8
-brasileirao_serie_a_2026,Renato Portaluppi,R. Portaluppi,Brazil,balanced,4-2-3-1,88,33,22,33,37.5,1.4,1.33,52.6,26.1,53.4,52.3
+brasileirao_serie_a_2026,Pedro Emanuel,P. Emanuel,Portugal,balanced,4-2-3-1,85,31,25,29,36.5,1.29,1.27,48.45,30.6,49.4,49.4
+brasileirao_serie_a_2026,Rafael Guanaes,R. Guanaes,Brazil,balanced,4-2-3-1,85,34,27,24,40.0,1.39,1.13,50.23,22.4,57.6,43.5
+brasileirao_serie_a_2026,Rafael Lacerda,R. Lacerda,Brazil,balanced,4-2-3-1,60,23,13,24,38.3,1.22,1.25,43.5,25.0,50.0,46.7
+brasileirao_serie_a_2026,Renato Portaluppi,R. Portaluppi,Brazil,balanced,4-2-3-1,92,33,25,34,35.9,1.4,1.36,52.14,25.0,55.4,52.2
 brasileirao_serie_a_2026,Rodrigo Bellão,R. Bellão,Brazil,balanced,4-2-3-1,5,1,2,2,20.0,1.2,1.8,45.0,20.0,60.0,60.0
-brasileirao_serie_a_2026,Rogério Ceni,R. Ceni,Brazil,balanced,4-3-3,91,39,23,29,42.9,1.32,1.22,55.05,31.9,52.7,48.4
-brasileirao_serie_a_2026,Thiago Carpini,T. Carpini,Brazil,balanced,4-2-3-1,91,32,29,30,35.2,1.1,1.16,45.42,30.8,49.5,39.6
-brasileirao_serie_a_2026,Tite,Tite,Brazil,balanced,4-2-3-1,19,10,1,8,52.6,1.11,0.95,57.5,42.1,26.3,31.6
-brasileirao_serie_a_2026,Vagner Mancini,V. Mancini,Brazil,balanced,4-2-3-1,88,32,18,38,36.4,1.27,1.26,49.53,27.3,50.0,46.6
+brasileirao_serie_a_2026,Rogério Ceni,R. Ceni,Brazil,balanced,4-3-3,96,41,25,30,42.7,1.32,1.2,55.07,33.3,52.1,47.9
+brasileirao_serie_a_2026,Thiago Carpini,T. Carpini,Brazil,balanced,4-2-3-1,94,33,29,32,35.1,1.13,1.21,45.37,30.9,50.0,41.5
+brasileirao_serie_a_2026,Tite,Tite,Brazil,balanced,4-2-3-1,20,11,1,8,55.0,1.1,0.9,54.67,45.0,25.0,30.0
+brasileirao_serie_a_2026,Vagner Mancini,V. Mancini,Brazil,balanced,4-2-3-1,91,33,20,38,36.3,1.27,1.25,49.4,26.4,51.6,46.2
 brasileirao_serie_a_2026,William Almeida,W. Almeida,Brazil,,,0,0,0,0,,,,,,,
